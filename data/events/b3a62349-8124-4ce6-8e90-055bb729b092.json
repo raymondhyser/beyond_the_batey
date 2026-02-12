@@ -6,7 +6,12 @@
       "file_type": "Video",
       "file_url": "https://ia601403.us.archive.org/2/items/index_20260212_1513/index.mp3",
       "duration": 2857,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "e6a98d5f-cf3a-44ff-8329-206b453b8ec2",
+          "speaker_category": "Speakers"
+        }
+      ],
       "set_sort": []
     }
   },
@@ -28,6 +33,6 @@
   ],
   "created_at": "2026-02-12T15:11:22.474Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-02-12T15:30:30.978Z",
+  "updated_at": "2026-02-12T15:30:49.901Z",
   "updated_by": "raymondhyser"
 }
