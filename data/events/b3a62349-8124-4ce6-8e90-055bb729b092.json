@@ -3,7 +3,7 @@
     "2e67c13a-c8cc-4935-b3f2-597a5594b592": {
       "label": ".vtt test",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://ia601403.us.archive.org/2/items/index_20260212_1513/index.mp3",
       "duration": 2857,
       "caption_set": [],
@@ -28,6 +28,6 @@
   ],
   "created_at": "2026-02-12T15:11:22.474Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-02-12T15:24:23.474Z",
+  "updated_at": "2026-02-12T15:30:30.978Z",
   "updated_by": "raymondhyser"
 }
