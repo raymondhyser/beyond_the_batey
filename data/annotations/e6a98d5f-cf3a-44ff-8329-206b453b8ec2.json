@@ -1807,6 +1807,274 @@
         }
       ],
       "tags": []
+    },
+    {
+      "uuid": "820acf5d-0ccf-471c-8347-d7f2b9a0a575",
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Ambient sounds (voices).] | Video Description: Colour video. A plain performance space (55 Avenue des Pins East, 2nd floor), with a large stage (as revealed later in clip) with a microphone and long, grey curtains hanging from a rafter in the background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Endre Farkas"
+        }
+      ]
+    },
+    {
+      "uuid": "6f894203-dc93-4d48-9eb7-d6b0578902ad",
+      "start_time": 12,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Addresses audience. Audience laughter Introduces set and first poem, \"For Those Who Deny the Holocaust\" (from Surviving Words, The Muses' Co., 1994), mentioning the neo-nazi Ernie Zundel.] | Video Description: Closeup on Endre Farkas addressing the audience at the microphone. Short salt-and-pepper hair, fedora, leather jacket."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Endre Farkas"
+        }
+      ]
+    },
+    {
+      "uuid": "0cc19715-c162-4509-a782-5cfe3d09bd37",
+      "start_time": 72,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Reads \"For Those Who Deny the Holocaust\". Audience laughter throughout.] | Video Description: Endre Farkas reads into the microphone, glancing down occasionally, then back up to look across the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Endre Farkas"
+        }
+      ]
+    },
+    {
+      "uuid": "edbe927a-b654-43d8-b86b-8e2f1021fac5",
+      "start_time": 359,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Reads \"O Canada\".] | Video Description: Camera zooms out to medium closeup on Endre Farkas, reading to audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[Unknown]"
+        }
+      ]
+    },
+    {
+      "uuid": "d4ab95ae-638a-4e49-8f97-373183529d44",
+      "start_time": 396,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nVideo Description: Camera zooms into closeup on Endre Farkas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Endre Farkas"
+        }
+      ]
+    },
+    {
+      "uuid": "cdf2050b-c8cd-437e-8821-51ff3d5cbe15",
+      "start_time": 648,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Thanks audience. Audience applause.] | Video Description: Endre Farkas addresses audience and steps away from microphone. Camera zooms out as Farkas walks across the stage, exiting on the right-side of the frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[Unknown]"
+        }
+      ]
+    },
+    {
+      "uuid": "c2140777-b1b3-48c6-8690-71761cd8a790",
+      "start_time": 652,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Ambient sounds (white noise).] Video Description: Camera cut. VCR static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Reader1"
+        }
+      ]
+    },
+    {
+      "uuid": "5c06f4e3-bc97-45fc-b810-9bf114c55d08",
+      "start_time": 656,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Addresses audience. Audience member interacts with Unknown_Reader1 (howls like a dog). Audience laughter. Introduces Unknown Poem 1.] | Video Description: Closeup on Unknown_Reader1 addressing audience into the microphone. Short light hair under toque. Moustache and beard. Rectangular-shaped glasses frames."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Reader1"
+        }
+      ]
+    },
+    {
+      "uuid": "341abeab-5e7f-4e54-a7c8-4761d183c986",
+      "start_time": 732,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Thanks audience. Addresses audience. Audience applause.] | Video Description: Unknown_Reader1 looks up to audience and addresses them. Applauds along with audience after encouraging applause for \"the boys\" (likely to mean organizers Ian Ferrier and Lee Gotham). Camera shakes while zooming out to medium shot. Unknown_Reader1 walks from microphone toward stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[Unknown]"
+        }
+      ]
+    },
+    {
+      "uuid": "9f2ec40f-c135-4acc-a04f-004b4669bc1e",
+      "start_time": 739,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Ambient sounds (white noise).] Video Description: Camera cut. VCR static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Fortner Anderson"
+        }
+      ]
+    },
+    {
+      "uuid": "36e78637-dd10-4798-bd93-c11f0dd1d1cf",
+      "start_time": 744,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nNow I don't know how many of you have been around Saint Lawrence street over the last several years—Is Chancey (?) here? Chancey? [Audience member responds.] Still in the room? Oh, he (?) just stepped out. Well, there were a couple of readings that have gone on up and down Saint Lawrence street over the several years. Off the Boulevard, Chancey and Peter worked on for a long time. The current incarnation is a wonderful series of readings that occur each Monday night around 9 o'clock at the Bistro 4, that's the corner of Duluth and Saint Lawrence. They're curated, managed, put together by our next reader, Lee Gotham, hailing from Britain, here in Montreal now five years. I'd like you all to welcome Lee. [Audience applause. Ambient sounds (voices).] | Video Description: Closeup on event host, Fortner Anderson, looking toward the audience and addressing them through the microphone. Short grey hair. Black browline glasses. Dark collared shirt. Anderson briefly diverts attention off-stage before resuming addressing audience. Nods at conclusion of introductory marks to Lee Gotham, exiting via the left side of the frame. Camera zooms out to a medium long shot on the lone microphone, bathed in the glow of a spotlight hanging on stage right. Lee Gotham enters the stage via stage right. Long brown hair tied in bun, beard, wearing a loose shirt and dark trousers. Camera zooms into medium closeup as Gotham picks up microphone from its stand, moving the stand away to stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lee Gotham"
+        }
+      ]
+    },
+    {
+      "uuid": "e02ccad7-82d3-431b-9e33-bd3aa36829cb",
+      "start_time": 824,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[Begins performing Unknown Poem 1 (\"The problem is we get wasted in alleyways…\").] | Video Description: Camera zooms into medium closeup shot on Lee Gotham pacing slowly across the stage, performing Unknown Poem 1."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Lee Gotham"
+        }
+      ]
+    },
+    {
+      "uuid": "4ab22661-3780-479b-a379-01bbf49471dd",
+      "start_time": 6697,
+      "end_time": 6698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": []
     }
   ],
   "set": "Default",
