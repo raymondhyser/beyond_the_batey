@@ -14,8 +14,8 @@
   "project": {
     "github_org": "raymondhyser",
     "is_private": false,
-    "title": "Test for Kara",
-    "description": "Test",
+    "title": "Testing Alexis Project",
+    "description": "Test project for Alexis's project. ",
     "language": "en",
     "slug": "testforkara",
     "creator": "raymondhyser",
@@ -74,7 +74,7 @@
       ]
     },
     "created_at": "2025-12-15T19:18:12.029Z",
-    "updated_at": "2026-02-18T22:00:25.286Z",
+    "updated_at": "2026-03-02T17:06:21.418Z",
     "generate_pages_site": true
   },
   "annotations": {},
