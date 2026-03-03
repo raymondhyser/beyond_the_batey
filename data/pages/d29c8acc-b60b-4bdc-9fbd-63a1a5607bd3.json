@@ -11,11 +11,12 @@
   ],
   "created_at": "2025-12-15T19:18:12.048Z",
   "created_by": "raymondhyser",
-  "title": "Test for Kara",
-  "updated_at": "2026-03-03T23:51:13.992Z",
+  "title": "Beyond the Batey",
+  "updated_at": "2026-03-03T23:51:37.439Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "beyond-the-batey"
 }
