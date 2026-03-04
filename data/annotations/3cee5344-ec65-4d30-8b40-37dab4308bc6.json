@@ -1,5 +1,1177 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien states that the drum is a tool of liberation humanity and reclamation and that bomba has a powerful energy that unifies. She also discusses the history of the Delegación de los Cangrejos (San Juan) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "3fd81230-5cc6-4d54-813b-0cff43e6002a"
+    },
+    {
+      "start_time": 367,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien states that even though Africans were ripped from their homelands their histories in Puerto Rico were not erased but added to Puerto Rican culture and music. She explains that they used their consciousness and the drums around them to create community history and resistance. She adds that this energy is felt on a communal level. She also says that bomba is paying tribute to two bomba elders Ramon Allers and Maria Cristy who dedicated their lives to the cultural labor of bomba. Maria Christy is unique in that she composes music, sings, dances, and plays the barril. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "e7549472-972b-434c-9c43-ae2998dd4bc2"
+    },
+    {
+      "start_time": 606,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramón \"Papo\" Allers Ponce is the grandson of a bomba matriarch from Mayaguez known as Asuncion Cavalleri. Later on, Marien gives Ramon an artisan-made maraca as a tribute to his legacy. Ramon directs a bomba school in Mayaguez. Of his grandfather's nephews he was the only one who took up learning bomba. Allers states that culture will never die as long as there is interest in bomba, reflecting a broader theme of music sustainability. This is reflected by the growing numbers of students enrolling in his school in Mayaguez, and the increasing attendees performing at the annual encuentros de los tambores. \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "66b566da-3a1b-45d1-9f81-06dac2bbc357"
+    },
+    {
+      "start_time": 822,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liz Sara Diaz Nadal of the Delegación del Oeste spans from La Sabana Grande to Isabella. This year they were motivated to participate as a result of Ramon Aller's tribute. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Liz Sara Diaz Nadal"
+        }
+      ],
+      "uuid": "1eea7806-f3d1-4b88-b554-ddd737c5beb7"
+    },
+    {
+      "start_time": 890,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres explains that seven delegations are participating in the Encuentros de Tambores. These delegations include Cangrejos, Diáspora, Loíza, Este, Oeste, Norte, Sur, and Carolinas. To qualify, each delegation must have at least 25 drummers available to represent its region. Torres emphasizes the significance of the event, noting that it is an annual regional gathering that brings together participants ranging from amateurs to professionals. The encuentros take regions and combine them into zones. Uniting these regions into zones helps different bomba scenes to grow and to work together. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "5d44ee0b-5edc-4f79-b939-737e42c2b1cc"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "text": "\"Cimarrón, Cimarrona\" Kily Vializ of the Delegación del Oeste ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy cimarrón"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy cimarrón "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y me voy pa la monte"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "cimarrón",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "14305521-d313-4fc2-83f7-ca55e974b5da"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien states that the significance of the Encuentros is that it creates a \"ripple effect.\" The organizers are hoping to break a record of more than 324 bomba practitioners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "48ff28c7-6cd2-49b8-9956-1630b7b08b13"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"San Paulé\". Composed by Norberto Sanchez",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "San Paulé"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Norberto Sanchez"
+        }
+      ],
+      "uuid": "9d35c816-0691-4d7a-9fd6-d37f475559ca"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Felipe \"Junito\" Febres. Discusses inclusivity within the bomba delegations"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Felipe Febres"
+        }
+      ],
+      "uuid": "bc8d8fe6-8bf7-4d28-9049-870244bf6283"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "text": "\"Cunyá Levedón\". Composed by Domingo Publico",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cunyá Levedón que adora dora dora"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cunyá Levedón que adora dora dora"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bailame la bomba "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        },
+        {
+          "tag": "José Emmanuelli y Bombazo de Puerto Rico",
+          "category": "speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cunyá Levedón"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Domingo Publico"
+        }
+      ],
+      "uuid": "01b0b77d-0b61-4c1b-8a5e-d90eab5445d7"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amaury Febres Delegacion del Este. Bomba's Encuentros serve as a node for reuniting bomba practitioners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Amaury Febres"
+        }
+      ],
+      "uuid": "dd90620b-7871-4dfd-8ed9-9ffc23564c35"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "text": "\"De los padres de la bomba\". Composed by Anel Rivera Vazquez",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "De los padres de la bomba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bailar"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "De los padres de la bomba"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "a850c569-ca0a-450c-836e-1e55f2cd099b"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1413,
+      "annotation": [
+        {
+          "text": "\"Palo y Machete\" Carlos O. Padilla Caraballo",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Manuel es un cimmaron "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Con el machete cimmaron conta un revolucion "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Palo y machete"
+        }
+      ],
+      "uuid": "d2af3ac7-8e8a-4e96-9f65-68618fbbb79e"
+    },
+    {
+      "start_time": 1451,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Soy mas que un color de piel\" Shantille Quinones de Jesus of the Delegación de Loíza\n",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Soy mas que un color de piel"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "99ef142e-94c1-4b24-976b-7c1a5608c49c"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Medley Tradicional\" Domingo Publico",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Domingo Publico"
+        }
+      ],
+      "uuid": "9c8a174b-46b1-4b10-8e60-d25585fe2128"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "José Archeval director of the Delegación del Sur\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "José Archeval"
+        }
+      ],
+      "uuid": "834ebd51-c412-4daa-8dc5-77454ae41845"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Candela\" Julia Laporte",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Candela",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Laporte"
+        }
+      ],
+      "uuid": "5036b6b9-a810-45ca-a862-01b934a201c9"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discurso de ritmos sureños. Belen y cuembe son algunos ritmos de bomba sureño. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "61f6306e-563b-41a6-b249-a59d0d3a8c56"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Ñeco Flores y Sico Mangual\" Julia Laporte",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ñeco Flores y Sico Mangual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Laporte"
+        }
+      ],
+      "uuid": "c3fd073b-a30d-4d7f-8cbe-4d8308c0f774"
+    },
+    {
+      "start_time": 1684,
+      "end_time": 1700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Edgar Rivera dice que Carolina está conocida por sus varios ritmos regionales. El más conocido es hoya mula. También dice que el aspecto más importante de la bomba es la formación de comunidad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "8445b6ef-d010-463e-a3fd-639407f02efc"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1829,
+      "annotation": [
+        {
+          "text": "\"Preguntale a Martina\" John E. Rivera Rosa of the Delegación de las Carolinas",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nPreguntale a Martina donde esta los marineros?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Preguntale a Martina donde esta los barrileros?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Robaron el sombrero "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "f3f3f77e-db31-4697-8fa5-dc843885da53"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ivelisse habla sobre la visibilidad de bomba en la diaspora."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "Ivelisse Diaz",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "fc780d12-fc97-4fd5-9c81-adf666183768"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "text": "\"Cimmaronaje\" Norka Hernandez Nadal Delegación de la Diáspora\n",
+          "bold": true
+        },
+        {
+          "text": "Corta la caña Manuel\nCaña no muero\nCorta la caña Manuel\nCorta la caña Manuel"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Caña no muero"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "5843e362-b9a0-4ecc-8dda-cb57f1315a3f"
+    },
+    {
+      "start_time": 1942,
+      "end_time": 2020,
+      "annotation": [
+        {
+          "text": "\"Sesa se vre\". Composed by Hector Luis Rivera Ortiz of the Delegación de la Diáspora. ",
+          "bold": true
+        },
+        {
+          "text": "\"Sesa se vre\" was composed in Creole, not in Spanish."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Se sa se vre "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Eske nou nube bezwen bambula "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Sesa se vre"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "Hector Luis Rivera",
+          "category": "speaker"
+        },
+        {
+          "tag": "Denis Solis",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "de27b5f0-d9b6-4ebb-83ec-ae83bc4e3193"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien habla sobre cómo la bomba ha sido históricamente marginada y cómo la bomba da testimonio de ello. Ella dice que la bomba es poderosa debido a su alcance, incluso dentro de la diáspora. La bomba es una herramienta poderosa de sanación, de canalización de sentimientos y de calidad de vida. El propósito de crear este evento es ayudar a que la bomba entre en nuevos espacios, tanto académicos como de otros tipos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "50d82bd9-534d-45d0-8416-d8dc81406098"
+    },
+    {
+      "start_time": 2267,
+      "end_time": 2270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A pesar de sus desafíos, la oradora afirma que la bomba se sostendrá por sí misma porque vive en el corazón de todos los puertorriqueños."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "cdc55344-e1b9-47d5-b211-2f89212cb312"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "text": "\"Hija del Alma\". Composed by Maria Cristina \"Cristy\" and Alfonso Mangual",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hija del alma "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mamá te dijo "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Baila esta bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Baila conmigo"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c47db65-afe2-4499-b8a7-0a0a75965eaf"
+    },
+    {
+      "start_time": 2358,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hector Christina Giovanni Cruz esta bailando con un pañuelo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "264c21f5-98d1-466f-bd70-b7ea5a8fa489"
+    },
+    {
+      "start_time": 2368,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "754 participantes de bomba se reunieron para el 10. Encuentro de los Tambores."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "363e5c8e-a17c-4c74-856a-6a7c6fd00eab"
+    },
+    {
+      "start_time": 2389,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres explica que la diáspora es una parte esencial de la bomba. También señala que el título del festival está pensado para ser inclusivo de otras regiones y culturas afrocaribeñas, y por eso Norma Salazar eligió el nombre Encuentro de Tambores en lugar de Encuentro de Barriles. Torres añade que bambula significa “reconocer” y que su intención es que el festival siga creciendo mientras se enfatiza que la bomba está arraigada en África."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "b4b2b1c2-6f28-4d2c-bde4-b8a02e3a69ff"
+    }
+  ],
   "event_id": "28ccf68d-f79d-4555-afed-3bd09ebe1c45",
   "set": "Spanish",
   "source_id": "2b494d2e-9bba-425d-b13b-c5e874242069"
