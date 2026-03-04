@@ -392,22 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 763,
-      "end_time": 2470,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Part 1: Encuentro de Cantaoras (Professional)"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "2f82a2ca-08a9-4383-ad80-6868887438a1"
-    },
-    {
       "start_time": 765,
       "end_time": 1179,
       "annotation": [
