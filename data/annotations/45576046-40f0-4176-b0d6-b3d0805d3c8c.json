@@ -1,5 +1,1144 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "text": "\"Suena los tambores\"  performed by the Delegación de la Diáspora",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, Suena los tambores que este baile es bomba para gozar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suéname los tambores y suéname los cuás que vamos a bailar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena suena ya"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suéname los tambores que vamos a bailar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mandingo eh Mandingo eh Mandingo eh tambora "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ahora Mandingo eh Mandingo eh Mandingo eh tambora"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando baila este "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Suena los tambores",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "6fb0f27d-91ae-4c51-ab1d-1335eec90b17"
+    },
+    {
+      "start_time": 120,
+      "end_time": 7560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transición entre grupos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb771fcb-7e12-4c97-8d48-345ff7b118df"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "text": "\"Yo canto bomba\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo canto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo canto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ahorita cerca el rio"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Buscando un senor para cantar conmigo"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Yo canto bomba}"
+        }
+      ],
+      "uuid": "3d6765e3-ab75-4db7-85ad-7b5759c17552"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Soy los elementos\" performed by the Delegatión del Oeste  ",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Soy los elementos",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "cfc4bf30-a24d-429b-a71d-5b37a6b85558"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "text": "\"De Mayaguez\" performed by the Delegation del Oeste",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mírame bien a la cara "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A la cara mírame"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mírame bien a la cara que yo soy de Mayaguez "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        },
+        {
+          "tag": "De Mayaguez",
+          "category": "song title"
+        }
+      ],
+      "uuid": "d35bfcdf-9648-489a-a267-c3d2b9882eb0"
+    },
+    {
+      "start_time": 3691,
+      "end_time": 3780,
+      "annotation": [
+        {
+          "text": "Tanta Indecencia\".  Composed by Guillermo Mundo of the Delegación del Norte",
+          "bold": true
+        },
+        {
+          "text": "\nYo no feliz vivir aquí"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo no feliz vivir aquí"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo lo pedí óyeme bien\nTanta indecencia"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tanta indecencia"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tanta indecencia\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nMe sacaron de mi tierraque cadenas me llevaron\nNi mi hermana o mi hermano pude ver\nA la amigazos me humillarony mi piel ellos marcaron\nSolo a la caña le cantaba mi querer"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi nombre me cambiaron y otro dios me presentaron\nY en la tira me alejó\nYo dejé algo en mi memoria\nEstaba toda mi historia\nY fui libre una vez y lo seré\nNo pedí bien tanta indecencia\nEl mayoral me castigaba\nSangre y sudor me empapaba\nPero mi almasiempre librequiso ser\nLa dignidad y el coraje hacia él\nDonde me llevaron era la muerte\nO la libertad de mi ser\nTanta indecencia\nTanta indecencia\nTanta indecencia\nTanta indecencia."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "Delegación del Norte",
+          "category": "delegation"
+        },
+        {
+          "tag": "Guillermo Mundo",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "246f006c-ef40-4f45-b99f-065646b1aa23"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay ocho delegaciones correspondientes a diferentes regiones. Bomberas y bomberos han venido de todas partes para este momento histórico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c89581b-96df-4b3d-9827-70384b569406"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Se que rompe tambor\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Se me rompió mi  tambor"
+        },
+        {
+          "tag": "suffering",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "racism",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "4825af08-388b-47c7-a5fd-d6e865f5ee45"
+    },
+    {
+      "start_time": 4176,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "text": "\"El Azul de mi Caribe\"",
+          "bold": true
+        },
+        {
+          "text": "\nEl azul de mi Caribe"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "El blanco de mi ilusión"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "El rojo de mi bandera tiene sangre de cimarrón"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Azul de mi Caribe"
+        }
+      ],
+      "uuid": "5a852d35-f167-494f-8b99-380010333ebe"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 5820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo soy cimarrón\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Yo soy cimarrón",
+          "category": "song title"
+        }
+      ],
+      "uuid": "cbca598c-7ea5-435c-901c-cdc1b551ac89"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 41880,
+      "annotation": [
+        {
+          "text": "\"Yo soy cimarrón\" Delegación del Norte",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Estando en pie de lucha soy cimarrón\nLibertad o muerte "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy cimarrón\nEn pie de lucha, yo soy cimarrón\nLibertad o muerte, yo soy esclavó no \nLibertad o muerte"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy cimmaron"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Estamos en pie de lucha al ritmo de amor\nEn pie de lucha"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy cimarrón\nYo soy cimarrón\nHe quitado las cadenas "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ya borrado al mayor\nSeguiremos en batalla hasta obtener la libertad\nDe pie de luchayo soy cimarrón"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación del Norte",
+          "category": "delegation"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "Yo soy cimarrón",
+          "category": "song title"
+        },
+        {
+          "tag": "freedom",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "f5aa0059-2e6b-4cb7-86fd-e86cfad6d001"
+    },
+    {
+      "start_time": 6775,
+      "end_time": 6780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Dale Golpe\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dale golpe"
+        }
+      ],
+      "uuid": "71d989d7-ec35-40c7-bc0d-40b03d738ca6"
+    },
+    {
+      "start_time": 8160,
+      "end_time": 8220,
+      "annotation": [
+        {
+          "text": "\"San Mateo de Cangrejos\" performed by the Delegation del Cangrejos. Composed by Rafael Maya Alvarez ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cangrejos, San Mateo de Cangrejos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "San Mateo de Cangrejos "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cangrejos, San Mateo de Cangrejos "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "San Mateo de Cangrejos",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "3b3ade46-763f-4efa-a077-3f1fb9c3ad67"
+    },
+    {
+      "start_time": 9780,
+      "end_time": 9840,
+      "annotation": [
+        {
+          "text": "\"Suena los tambores\" performed by Plenibom",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena ya "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suename los tambores"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena los tambores ritmos africanos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena los tambores vamos a bailar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tambores del lluvia "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tambores del mar\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Suena los tambores",
+          "category": "song title"
+        },
+        {
+          "tag": "Plenibomb",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "cee6bb80-196c-45dd-b523-90fb79c2c9ca"
+    },
+    {
+      "start_time": 10080,
+      "end_time": 10140,
+      "annotation": [
+        {
+          "text": "\"Oy, quiero cantar\".  Composed by Ishmael Rodriguez",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Oy yo quiero cantar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo quiero bailar bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suename los tambores"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando suena los tambores para que bailar la bomba sola baila "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo quiero cantar (yo quiero cantar)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo quiero bailar bomba (yo quiero bailar bomba)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo quiero cantar (yo quiero cantar)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo quiero bailar bomba (yo quiero bailar bomba)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suename los tamboes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tambores "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Yo quiero cantar}y Ishmael Rodriguez"
+        }
+      ],
+      "uuid": "04ffa791-379a-4b39-aac9-5368a878f8e4"
+    },
+    {
+      "start_time": 11220,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "text": "\"De Carolina\" Delegacion de la Carolina. References the song de Carolina por Rauw Alejandro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La gente sabe que somos de la calle"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La gente sabe que somos de la calle"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La gente sabe que somos de la calle"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Somos de Carolina y venimos virao"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Somos de Carolina y venimos virao"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Somos de Carolina y venimos virao"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Carolina-lina-lina "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mira Mira Mira tumbe Carolina y Mayaguez"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Donde traje la bomba son pueblo de Mayaguez Carolina"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mira Mira Mira Mira Tumbe de pueblo de Mayaguez"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo te traigo la bomba por Carolina a Mayaguez "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "De Carolina",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "0208cb9d-6698-4a47-9baa-08b5fce1663a"
+    }
+  ],
   "set": "Default",
   "event_id": "cda3e676-3c14-4341-b31f-a80bdab5e36d",
   "source_id": "86c507df-66ba-489b-aef9-9cf561cdfbee"
