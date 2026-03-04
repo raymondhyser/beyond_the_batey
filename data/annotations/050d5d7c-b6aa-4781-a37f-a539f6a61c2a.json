@@ -392,32 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 1995,
-      "end_time": 2220,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Unidentified bomba song",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        },
-        {
-          "tag": "women",
-          "category": "analysis"
-        }
-      ],
-      "uuid": "fbaed732-39ce-49c5-9977-60a458db5a68"
-    },
-    {
       "start_time": 2250,
       "end_time": 2418,
       "annotation": [
