@@ -1,1 +1,423 @@
-{"annotations":[],"set":"Default","event_id":"f4cadf91-0287-4908-a384-41bb4ea37af4","source_id":"18e90dcf-25c3-4af8-ba16-40a738d669f1"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que tiemble el Estado, los cielos, las calles\nQue teman los jueces y los judiciales\nHoy a las mujeres nos quitan la calma\nNos sembraron lo miedo, nos crecieron alas\nA cada minuto de cada semana\nNos roban amigas, nos matan hermanas\nDestrozan sus cuerpos, las desaparecen\nNo olviden sus nombres, por favor, señor [gobernante].\n[Por las lideres luchando en Penuelas\nPor las que resisten con fuerza in Playuela\nLas jefas de casa aguantando en Maria\nPor todas las madres contra la Marina]\nCantamos sin miedo, pedimos justicia\nGritamos por cada desaparecida\nQue [resuene] fuerte: ¡Nos queremos vivas!\n¡Que caiga con fuerza el feminicida!\n\nYo todo lo incendio, yo todo lo rompo\nSi un día algún fulano te apaga los ojos\nYa nada me calla, ya todo me sobra\nSi tocan a una, respondemos todas\n\n[Soy Mildred, Rosimar, y soy Francesca.\nSoy Serena, Valerie Ann, y soy Alexa\nSoy la niña que subiste por la fuerza\nSoy la madre que ahora llora por sus muertas]\n\nY soy esta que te hará pagar las cuentas\nJusticia! Justicia! Justicia!\n[Por las lideras luchando en el Cano]\nPor las que resisten como hizo Aldofina\nLas comunitarios de Villa Sin Miedo\nCulebra, y Vieques que no comen cuento.]\n\nChorus \nCantamos sin miedo, pedimos justicia\nGritamos por cada desaparecida\nQue [resuene] fuerte: ¡Nos queremos vivas!\n¡Que caiga con fuerza el feminicida!\n¡Que caiga con fuerza el feminicida!\n\nY retiemblen sus centros la tierra\nAl sororo rugir del [tambor].\nY retiemblen sus centros la tierra\nAl sonoro rugir del [tambor!]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cancion sin miedo",
+          "category": "song title"
+        },
+        {
+          "tag": "Barrileras de OchoM",
+          "category": "speaker"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "lyrics",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "femicide",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "5569fa50-1a85-42fa-aec3-2afb3ef91420"
+    },
+    {
+      "start_time": 110,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El uso de lenguaje de señas en el video musical sirve para hacerlo más inclusivo y accesible, amplificando el impacto del mensaje contra el feminicidio. La incorporación de intérpretes de señas en conciertos y videos musicales solo comenzó a volverse más común en los últimos años —especialmente a partir de la década de 2010, y con mayor fuerza después de 2020— cuando artistas y colectivos empezaron a priorizar la accesibilidad como parte de sus prácticas creativas y políticas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "accessibility"
+        }
+      ],
+      "uuid": "8b5e53f2-8339-4c18-80f4-bc6cf084d8c6"
+    },
+    {
+      "start_time": 120,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este video es una adaptación de “Canción Sin Miedo”, originalmente compuesta por Vivir Quintana, pero interpretada aquí por las barrileras del 8M. He colocado entre corchetes los cambios en la letra que ejemplifican lo que algunos académicos podrían llamar “glocalización”, es decir, la manera en que un himno feminista transnacional se adapta a un contexto local. En esta versión, las Barrileras de 8M adaptan este himno feminista mexicano al contexto puertorriqueño modificando referencias clave para hacerlas más significativas a nivel local. También he decidido anotar estas referencias, ya que no todas las personas aquí estarán familiarizadas con las noticias específicas sobre feminicidios en Puerto Rico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "femicide",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "570049c2-efa6-4892-b83e-8a17056984d4"
+    },
+    {
+      "start_time": 139,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este segmento de la película presenta a una bailadora de bomba trans. Las personas trans en la bomba no son muy comunes, salvo algunas excepciones como su inclusión en el video musical comercial Huracán de Esoterica Tropical. En esta escena, además, muestran a la bailadora con vestimenta tradicional de bomba (incluyendo la falda) justo en el momento en que se menciona el feminicidio de Alexa Negrón Luciano. Esta elección visual subraya la importancia de reconocer la violencia transfóbica dentro de la conversación más amplia sobre feminicidios en Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "09233791-b3fa-494e-b76a-b6f599f63f54"
+    },
+    {
+      "start_time": 131,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este fragmento es musicalmente notable porque los barriles desaparecen por completo, dejando al descubierto un canto a capela con armonías y dinámicas más suaves que subrayan el contenido lírico enfocado en feminicidios específicos ocurridos en la última década."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "femicide",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "a2d574fd-5713-4d8d-b144-3f0c96509647"
+    },
+    {
+      "start_time": 198,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí se puede ver a las bomberas bailando entre las ruinas de edificios abandonados. Esto es significativo porque subraya que, a pesar de la riqueza cultural y musical de Puerto Rico, ciertos aspectos de la sociedad  (como la misoginia y la violencia doméstica) siguen empobreciendo y marginando a sectores específicos de la población."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        },
+        {
+          "tag": "suffering",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "38375b68-fded-44ee-b55f-b72dcf162c8d"
+    },
+    {
+      "start_time": 224,
+      "end_time": 13800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, las dinámicas musicales también son significativas: las barrileras hacen redobles y detienen momentáneamente el patrón tradicional de bomba para acompañar la frase “retiemble su centro la tierra, su tambor.” Esta línea es distinta a la versión de Vivir Quintana, donde aparece la palabra “amor” en lugar de “tambor.” La sustitución hace que la letra sea más pertinente a la bomba, una tradición centrada en el tambor. Además, refuerza la idea del “centro,” que se enfatiza visualmente entre de la videografía y la disposición espacial circular de las barrileras."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "85824dc2-5070-4924-a2fc-8805935a5bf4"
+    },
+    {
+      "start_time": 240,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mildred Almodóvar fue asesinada en un caso que llamó la atención pública por su brutalidad y por el fracaso de los sistemas de protección.\nRosimar Rodríguez Gómez, de 20 años, fue secuestrada y asesinada en Toa Baja en 2020. Su caso provocó protestas debido a que la policía tardó en emitir una Alerta Amber.\nFrancesca Trinidad fue una joven asesinada por su pareja en un caso que se convirtió en un ejemplo emblemático de feminicidio íntimo en la isla.\nSerena Cortés, una adolescente asesinada en 2020, se convirtió en uno de los casos más cubiertos por los medios puertorriqueños durante una ola de feminicidios que afectaba a mujeres jóvenes.\nLa desaparición y asesinato de Valerie Ann Almodóvar se transformó en un símbolo de la falta de respuesta institucional ante mujeres desaparecidas en Puerto Rico.\nAlexa Negrón Luciano, una mujer trans negra, fue asesinada el 24 de febrero de 2020 en Toa Baja, Puerto Rico. Antes de su muerte, había sido acosada y ridiculizada públicamente en redes sociales. Su asesinato generó atención y condena internacional. Sus agresores no fueron identificados hasta 2023, y el FBI continúa solicitando información. Alexa había sido atacada con una pistola de paintball poco antes de su muerte, y videos del acoso y la violencia fueron grabados y difundidos en línea. También enfrentaba la falta de vivienda en el momento de su asesinato.\n\nEstas muertes se volvieron centrales para el movimiento feminista en Puerto Rico en 2020, como parte de los llamados más amplios de #SayHerName y #MeToo para visibilizar la violencia de género e interseccional. Conmemorarlas a través de una canción fue una decisión artística y política profundamente significativa. La canción es poderosa por sí sola, pero investigar el contexto local le añade un peso emocional distinto. La bomba, como género, siempre ha sido un espacio de resistencia, resiliencia y transformación social. Este ejemplo contemporáneo demuestra cómo la bomba se adapta a las realidades locales mientras fomenta la memoria colectiva y el cambio. Las referencias a “las líderes luchando en el Caño”, Aldofina, las comunitarias de Villa Sin Miedo, y Culebra y Vieques que no comen cuento evocan momentos clave de resistencia en Puerto Rico y anclan la canción en luchas locales. Las líderes del Caño Martín Peña representan décadas de organización comunitaria encabezada por mujeres contra el desplazamiento y por la justicia ambiental; Aldofina Rosario simboliza la valentía de las mujeres negras y pobres que defendieron su derecho a la vivienda frente a desalojos violentos; las comunitarias de Villa Sin Miedo recuerdan la ocupación de terrenos en los años ochenta y la represión estatal contra familias que reclamaban dignidad y hogar; y las luchas de Culebra y Vieques aluden al papel fundamental de las mujeres en la resistencia contra la ocupación militar de la Marina estadounidense. Al integrar estos referentes, la adaptación puertorriqueña de Canción Sin Miedo transforma un himno feminista transnacional en una denuncia profundamente localizada, conectando la violencia de género con historias de colonialismo, pobreza, desplazamiento y resistencia comunitaria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "femicide",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "66daf18a-c55d-48a9-8008-c0376cb1bbd7"
+    },
+    {
+      "start_time": 263,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El video musical destaca no solo por la organización coreográfica y estilística de las bailarinas y los tambores, sino también por el uso de tomas aéreas que permiten apreciar la gran cantidad de bomberas presentes. Es inusual ver un grupo de este tamaño tocando barriles, ya que históricamente existieron barreras de género y discriminación dentro de la práctica de la bomba. Otro elemento poco común en esta presentación son las armonías vocales: la bomba, como género folclórico, a veces prioriza los tambores y el baile por encima de la virtuosidad del canto. Aquí, sin embargo, las armonías no solo son limpias, sino que cumplen una función musical y política esencial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "choreography"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "85f6918b-f623-4cb5-9ed9-947d2e3aba00"
+    },
+    {
+      "start_time": 295,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, aunque aparece solo por un instante, es importante señalar que el equipo de producción dedica la canción a las 60 mujeres que han sido víctimas de feminicidio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "femicide",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "bd814e1f-9a2b-426d-a2f3-cae8a17d6575"
+    }
+  ],
+  "set": "Default",
+  "event_id": "f4cadf91-0287-4908-a384-41bb4ea37af4",
+  "source_id": "18e90dcf-25c3-4af8-ba16-40a738d669f1"
+}
