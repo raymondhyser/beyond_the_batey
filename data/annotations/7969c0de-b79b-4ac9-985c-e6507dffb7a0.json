@@ -1,1 +1,69 @@
-{"annotations":[],"set":"Default","event_id":"5bf43a02-1e96-4788-a960-377c60a6bc02","source_id":"c6174335-d152-47a5-a92a-e42974663e08"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La boru cana\" continues.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "a2eb53d5-a84d-4359-8d08-be3cfc91c2bf"
+    },
+    {
+      "start_time": 28,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“En la hacienda Caridad” Don Rafael Cepeda Atiles\nChorus\nAt the Caridad hacienda they dance bomba, at the Caridad hacienda they dance real bomba.\nVerses\nAt the Caridad hacienda they dance bomba, at the Caridad hacienda they dance real bomba.\nAt the Caridad hacienda they dance bomba, at the Caridad hacienda they dance bomba and nothing more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "En la hacienda de Caridad",
+          "category": "song title"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        }
+      ],
+      "uuid": "7aace7e6-6ae7-4e35-a82e-bbbf442ad76e"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5bf43a02-1e96-4788-a960-377c60a6bc02",
+  "source_id": "c6174335-d152-47a5-a92a-e42974663e08"
+}
