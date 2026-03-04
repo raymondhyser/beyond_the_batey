@@ -1,1 +1,419 @@
-{"annotations":[],"set":"Default","event_id":"223513a0-d915-4308-9354-f33d8a6c873e","source_id":"1324c226-f715-40e6-80fa-96be9a9e916e"}
+{
+  "annotations": [
+    {
+      "start_time": 187,
+      "end_time": 365,
+      "annotation": [
+        {
+          "text": "\"Black Majesty\" performed by Petra Cepeda  ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Along the blazing Antillean street  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "goes Tembandumba of the Quimbamba  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rumba, macumba, candombe, bámBula  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "between two rows of black faces  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Before her, a congo, gongo, and maraca  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "rhythms a conga bomba that swings  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Wiggling, the Queen advances  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and from her immense hips slip  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "sexy movements that the gongo solidifies  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "in rivers of sugar and molasses  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Dark sugar mill of sensual harvest  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "the hips, mass with mass  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "squeeze rhythms, sweat that bleeds  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and the grinding culminates in dance  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Along the blazing Antillean street  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "goes Tembandumba of the Quimbamba  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Flower of Tortola, rose of Uganda  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "for you, bombs and bámBulas crackle  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "for you, in wild parades  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "the Antilles burn their ñáñiga blood  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Haiti offers you its pumpkins  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "fiery rums Jamaica gives you  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuba says to you: go ahead, mulatta  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And Puerto Rico, sweet melamba  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Are my cocolos of black faces  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Thunder drums, vibrate maracas  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Along the blazing Antillean street  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "rumba, macumba, candombe, bámBula  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "goes Tembandumba of the Quimbamba"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Petra Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "dc5608eb-bcf0-46da-941b-50e14db382f7"
+    },
+    {
+      "start_time": 400,
+      "end_time": 462,
+      "annotation": [
+        {
+          "text": "\"Queen of Carnival\" or \"Vejigante Eats Coconut\"  \nVerses  ",
+          "bold": true
+        },
+        {
+          "text": "\nI saw a green devil  \n(Painted in the kitchen)  \nVejigante is painted  \n(In yellow and red)  \nSnake in Loíza  \nSeven fish  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\n'Cause I'm going (Carnival)  \nTo have fun (Carnival)  \nTo dance (Carnival)"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Vejigante come coco",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "29ed069d-b96e-4e44-925b-64c08c39f1eb"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified Plena"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "510ad81d-5c75-4e66-aa3e-e14503cc4558"
+    }
+  ],
+  "set": "Default",
+  "event_id": "223513a0-d915-4308-9354-f33d8a6c873e",
+  "source_id": "1324c226-f715-40e6-80fa-96be9a9e916e"
+}
