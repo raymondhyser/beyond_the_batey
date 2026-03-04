@@ -1665,6 +1665,1558 @@
         }
       ],
       "uuid": "52093df2-20ef-444f-a1a2-5255ef9295f9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien canta “le lo lai” y podríamos oír los sonidos de los gallos. “Le lo lai” es una interjección musical común en la música puertorriqueña tradicional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "0749a6ef-79da-4707-9753-1c96d886f1d0"
+    },
+    {
+      "start_time": 21,
+      "end_time": 119,
+      "annotation": [
+        {
+          "text": "\"Bambulaé sea allá\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bambulaé sea allá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bambulaé sea allá\nBambulaé sea allá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Sesa para ti no más"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Sea sea sea sea allá"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bambulaé sea alla",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "82f9094e-5173-4fcb-90d0-9d8f7a9c99c8"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "text": "\"Maria Luisa\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Maria Luisa no te vayas"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Luisa",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e3f8b9bb-7476-4786-a8fb-b592961ec32e"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuales del océano.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a76478c9-4e7c-4177-9bb2-e5bc0175fb81"
+    },
+    {
+      "start_time": 188,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Que lo bailo la gracima\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "c1bcfa96-c1e8-4d22-bc08-fe26f4ca087e"
+    },
+    {
+      "start_time": 204,
+      "end_time": 224,
+      "annotation": [
+        {
+          "text": "Jesús Cepeda habla sobre su abuelo, Don Rafael Cepeda Atiles. Menciona que escribió un artículo para "
+        },
+        {
+          "text": "El Mundo",
+          "italic": true
+        },
+        {
+          "text": " con el propósito de la preservación cultural."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "sustainability",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e0b818e1-3482-487c-ad17-b516df1a6341"
+    },
+    {
+      "start_time": 222,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "2c7a79ef-4a4e-4470-849c-e63f44c40438"
+    },
+    {
+      "start_time": 222,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mario Cepeda Brenes habla sobre el legado de la Familia Cepeda y sobre su maraca favorita."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "3cc6eff9-9375-433b-ae70-a152fa7cbd92"
+    },
+    {
+      "start_time": 275,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jesús Cepeda dice que la bomba fue usada para planear las rebeliones de los esclavos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "629d323b-ea4f-4b80-bf2d-86fc5bf76c74"
+    },
+    {
+      "start_time": 291,
+      "end_time": 302,
+      "annotation": [
+        {
+          "text": "\"Que toca de bomba\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Son es la melodia "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suenan los tambores "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Regalos Tata Cepeda"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que fuerte la bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que fuerte la plena "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Regalos Tata Cepeda"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Esa es mi cultura "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que fuerte la bomba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que  fuerte la plena "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Regalos Tata Cepeda"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "456aafc8-05c9-4d68-9990-6bd994d183c5"
+    },
+    {
+      "start_time": 303,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los visuales muestran Río Piedras, donde el conjunto de Marien (Taller Tambuyé) practica y se presenta. Marien Torres habla sobre haberse unido al grupo de bomba Plenibom durante sus estudios de bachillerato, el cual era dirigido por Norma Salazar, y sobre su arresto por desobediencia civil en 1999."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "6d3cd8fa-f876-4709-9b06-41f8f4418263"
+    },
+    {
+      "start_time": 400,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Música diegética de saxofón y piano suena sobre imágenes de La Fortaleza en el Viejo San Juan. Luego, el documental se desplaza hacia el espacio de bomba dirigido por Marien Torres, donde ella y su clase funcionan como un archivo viviente. Juntos, recuperan la memoria de su arresto en 1999 junto a Norma Salazar. Cuando Marien reinterpreta el momento, los bailadores se mueven a su alrededor para extender y amplificar la memoria a través del movimiento, creando una forma colectiva de coreopolítica. En esta práctica compartida, su grupo encarna simultáneamente a los manifestantes y a las fuerzas de coreopolicing. Algunas bailadoras canalizan la rigidez de la presencia militar estadounidense, con los brazos en forma de rifles, mientras las demás se mueven con la resistencia y la urgencia de las manifestaciones en Vieques. Su clase se convierte tanto en agentes de supresión como en agentes de desafío, revelando la tensión entre control y liberación a través de sus cuerpos. \nLuego, cantan el coro de una canción de bomba con su estribillo. “Ellos han perturbado el nido de hormigas.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "protest",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c301dff2-74e5-458e-9f6e-1e8f8490c0de"
+    },
+    {
+      "start_time": 541,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hashlye S. Pérez Vega habla sobre su relación con “Yito” y su niñez creciendo con la bomba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Hashlye S Pérez Vega",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "2a4bc875-e13a-4311-88f2-7e4925be26a7"
+    },
+    {
+      "start_time": 570,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Imágenes del festival llamado “La SanSe”, que se celebra desde el tercer jueves hasta el tercer domingo de enero. Es un festival anual en honor al santo patrón San Sebastián. Luego, se interpreta una canción de bomba titulada “El Sombrero de Yare”."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ccfdf7c4-2e7b-412c-a79f-2c4bd83df093"
+    },
+    {
+      "start_time": 740,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jesús Cepeda habla sobre la corrupción política en relación con el desfalco de fondos públicos. Las imágenes muestran a varios políticos. Además, Jesús se identifica con la postura proindependentista y con la soberanía."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "politics",
+          "category": "analysis"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "8b322cc6-eb1b-48f1-9308-a2f19098b263"
+    },
+    {
+      "start_time": 790,
+      "end_time": 793,
+      "annotation": [
+        {
+          "text": "\"Contrario mi holandé\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Contrario mi holandé"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Contrario mi holandé"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Contrario mi holandé\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Es una cuestión de cuento"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(Unintelligible) que yo respecto bien \nHay cuando suenan los barriles "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Los barriles de mi Borinquén"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A la bomba yo me llama"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        }
+      ],
+      "uuid": "b4c0dd24-a29b-4b02-a426-88070ba39cda"
+    },
+    {
+      "start_time": 840,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien habla sobre la falta de autogobernanza en Puerto Rico. Además, comparte cómo sus experiencias como madre la han motivado a luchar por la libertad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "freedom",
+          "category": "analysis"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "71a5bc5b-c10d-4d8e-a0c8-74da9a27cfbc"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres amamanta a su hijo mientras habla sobre la colonización y la descolonización."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "12c4cd70-40e9-4367-bcb4-5ee16ed1bf3d"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena música de jazz, con saxofón y piano, mientras se muestran imágenes del huracán María.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "9ae96993-655a-499e-8154-99555f2acb00"
+    },
+    {
+      "start_time": 1246,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena música de saxofón y piano mientras se muestran imágenes de Mayagüez y del mar, durante las transiciones entre segmentos del documental.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "b0e2e1fd-180a-4ad8-88f2-2b276db9e847"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se muestra el estudio de producción musical del orador y el software de edición de audio. El hombre canta la siguiente canción, la cual fue interpretada en el Encuentro de Tambores en un año anterior. \"Somos semillas, somos el fruto de la bomba.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a13ae9d0-1235-47b4-a292-970c7bfbcbaa"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continúa sonando música diegética de saxofón y piano, acompañando imágenes de la vida urbana (automóviles, ruinas de edificios, banderas de Puerto Rico, fachadas de tiendas, una gallina y polluelos)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c13cb589-2334-4b82-9685-de1eef0baafe"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 8846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien está bailando bomba en su escuela, Taller Tambuyé. Ella está demostrando movimientos masculinos y femeninos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "Taller Tambuye",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "c86ab723-bc9c-412c-947b-e2afdd165ac7"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres habla sobre el impacto en el paisaje sonoro de Puerto Rico. Normalmente, el paisaje sonoro puertorriqueño está compuesto por los cantos de los gallos, pero esto también cambió después del huracán María. Marien comenta que los animalitos más pequeños ejemplifican la resiliencia y el espíritu de resistencia. También habla sobre la inundación que afectó su hogar y muestra al público su nueva casa, la cual está muy vacía."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "06ce380f-8836-4a44-9d73-d05e16c47ef8"
+    },
+    {
+      "start_time": 1840,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las imágenes presentan escenas de Bayamón."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "cb6e24a5-734e-426f-b33c-dc444b54862a"
+    },
+    {
+      "start_time": 1938,
+      "end_time": 1948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres comenta que tuvo que hacer cambios en su calidad de vida para poder seguir pagando la educación de su hija y continuar remunerando a sus maestras de bomba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        },
+        {
+          "tag": "sustainability",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "497f784f-d8e2-44a3-9239-12d4d80b7027"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El orador comenta sobre la situación económica de Puerto Rico en relación con la deuda del país con Estados Unidos.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "82384e32-b705-4d9d-ba44-1fbb8fe1a063"
+    },
+    {
+      "start_time": 2078,
+      "end_time": 2099,
+      "annotation": [
+        {
+          "text": "Durante las protestas en Puerto Rico, se alzan voces que denuncian los bajos salarios y las condiciones económicas precarias que enfrentan muchas personas en la isla. Entre los cánticos que resuenan en las calles, uno se destaca por su fuerza y claridad. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "“¡No da para vivir!”  \n“¡Se siente, se siente, la revolución está presente!”"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "protest",
+          "category": "analysis"
+        },
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e3077acf-e55a-4fd3-a1dc-7f49110dafba"
+    },
+    {
+      "start_time": 2100,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Durante un viaje en carro, Marien reflexiona sobre los derechos civiles, la bomba y las cuestiones de género."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "dbc741ee-7ffc-42a9-a4e2-c37e2618f062"
+    },
+    {
+      "start_time": 2162,
+      "end_time": 2316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta escena muestra a un grupo de bomba compuesto exclusivamente por mujeres (específicamente el Taller Tambuyé) tocando en un bar (El Refugio) de Río Piedras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Taller Tambuye",
+          "category": "speaker"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "16a41b0d-a31f-45f9-8d15-ed49d8075b8e"
+    },
+    {
+      "start_time": 2197,
+      "end_time": 2238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien relata la primera vez que presenció a una mujer romper la barrera de género en un baile de bomba al tocar el barril. Fue un momento impactante y transformador, ya que tradicionalmente el tambor ha sido un espacio dominado por hombres dentro de esta práctica cultural. Ver a una mujer asumir ese rol no solo desafió las normas establecidas, sino que también abrió camino para que otras mujeres se sintieran con el derecho y la fuerza de ocupar ese lugar. Para Marien, ese instante simbolizó una ruptura con el pasado y una afirmación poderosa del papel de las mujeres en la continuidad y evolución de la bomba.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e4fa80a0-98d0-47af-b2f3-d58acd0f3ecc"
+    },
+    {
+      "start_time": 2260,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "text": "Una madre baila con su bebé en la cadera en Río Piedras, encarnando la transmisión viva de la bomba de generación en generación. Mientras se mueve al ritmo del tambor, suena la canción "
+        },
+        {
+          "text": "“Goza de la bomba.” ",
+          "bold": true
+        },
+        {
+          "text": "El coro es \"goza de la bomba, goza.\""
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c12f9e72-c59f-41ac-b6ba-9f6c8b7a90be"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se muestra al EBPDCB (Escuela de Bomba y Plena Doña Caridad Brenes Caballero). Cary Cepeda imparte clases en el Viejo San Juan, guiando a estudiantes en el aprendizaje de la bomba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Margarita Caridad Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "cbc44e6f-bdbc-4ad4-bf5d-d69359bc8a17"
+    },
+    {
+      "start_time": 2380,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cary Cepeda habla de su familia y su legado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Margarita Caridad Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "La Familia Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "1cdd6e7e-fbb2-4cac-9b38-32d80c6236ab"
+    },
+    {
+      "start_time": 2427,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canción de bomba no identificada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "73f38f59-1005-41c6-9553-4bcca040a8e4"
+    },
+    {
+      "start_time": 2490,
+      "end_time": 2503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cary Cepeda habla del sufrimiento y del esfuerzo que implica mantener viva la herencia de la bomba. Relata cómo los mayores tenían que cargar tambores pesados y transportarlos largas distancias hasta pueblos vecinos, todo por el compromiso de preservar y compartir esta tradición ancestral. Su testimonio resalta el sacrificio físico y emocional que ha sostenido la práctica de la bomba a lo largo de generaciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Margarita Caridad Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "sustainability",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "80a46016-34b7-4920-aa96-566df2263349"
+    },
+    {
+      "start_time": 2592,
+      "end_time": 2602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta sección aborda los cambios generacionales dentro de la práctica de la bomba. Se reconoce que la nueva generación lo tiene un poco más fácil que la anterior, gracias al trabajo arduo de quienes vinieron antes. Los mayores sabían que, si no enseñaban, la tradición no sobreviviría. Los temas de sostenibilidad cultural y la amenaza de la desaparición musical están presentes a lo largo del segmento. \n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sustainability",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "837823ec-f104-4092-a6d1-9f9cda28a61b"
+    },
+    {
+      "start_time": 2633,
+      "end_time": 2640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una canción de bomba no identificada suena mientras se aborda la espiritualidad dentro de la práctica de la bomba y su papel en la formación comunitaria. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "2e08b991-db1d-4cd8-90cb-736689ee5546"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El camarógrafo graba un segmento del 8 Encuentro de Tambores. En este fragmento se muestra a un maestro de bomba llamado Don Miguel y el momento en que fue reconocido por su trayectoria y aportes a la tradición."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "acf211e0-ca5e-4cd9-9753-63289460dffe"
+    },
+    {
+      "start_time": 3076,
+      "end_time": 3090,
+      "annotation": [
+        {
+          "text": "\"Estoy llamado\".",
+          "bold": true
+        },
+        {
+          "text": " Interpretada por la Delegación de las Carolinas"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy llamando",
+          "category": "song title"
+        }
+      ],
+      "uuid": "09c0b716-d871-4522-8809-7085ca3bb7db"
+    },
+    {
+      "start_time": 3261,
+      "end_time": 3280,
+      "annotation": [
+        {
+          "text": "“Yo Bailaré”. ",
+          "bold": true
+        },
+        {
+          "text": " Interpretada por la Delegación de Loíza\n"
+        },
+        {
+          "text": "Coro:",
+          "bold": true
+        },
+        {
+          "text": "  \nYo bailaré  \nYo bailaré  \nBaile esa bomba"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Yo bailaré",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "bc9a6fbf-8838-4818-87ed-ada1e871223c"
+    },
+    {
+      "start_time": 3310,
+      "end_time": 3340,
+      "annotation": [
+        {
+          "text": "Canción de bomba no identificada  "
+        },
+        {
+          "text": "\nCoro\n",
+          "bold": true
+        },
+        {
+          "text": "Los cimarrones"
+        },
+        {
+          "text": "\n\n",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "freedom",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "a071e1ed-7cb0-4da8-b8e3-616b556a587a"
+    },
+    {
+      "start_time": 3400,
+      "end_time": 3443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena música diegética de saxofón y piano mientras Marien Torres reflexiona sobre las trincheras, el trabajo cultural y los valores de resiliencia que son inherentes a la bomba. También, subraya la importancia de crear espacios para la sanación colectiva."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "a373c72b-7876-4507-a179-79896ab0a51e"
+    },
+    {
+      "start_time": 3546,
+      "end_time": 3655,
+      "annotation": [
+        {
+          "text": "La bomba fue utilizada como forma de protesta durante las manifestaciones del 2019. Se muestran fragmentos de música de protesta, mientras se escuchan silbatos de la policía de fondo."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Candela",
+          "bold": true
+        },
+        {
+          "text": "” "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nCandela  \nCandela le amo"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Candela",
+          "category": "song title"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "protest",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "fe3925b5-e1fb-44ef-a477-37b7a8793755"
+    },
+    {
+      "start_time": 3657,
+      "end_time": 3658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gallinas y sus polluelos aparecen en pantalla al final. La imagen final alude a la esperanza, ya que su presencia fue mencionada anteriormente por Marien Torres como una historia de resistencia en tiempos de gran sufrimiento."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "020c5a76-39d3-4d39-9e29-7b9295a68ff1"
     }
   ],
   "set": "Default",
