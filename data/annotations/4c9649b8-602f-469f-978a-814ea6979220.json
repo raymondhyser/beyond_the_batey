@@ -1,1 +1,342 @@
-{"annotations":[],"set":"Default","event_id":"8d5ebdad-5132-4612-9cbe-d18a56a1e1fe","source_id":"53bd9dcd-756d-42d7-9977-2fbc30b9f596"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified Song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "música jibara",
+          "category": "genre"
+        },
+        {
+          "tag": "accordion",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "pandereta",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "39da6a07-27d6-4caa-96d5-68c6be379f8d"
+    },
+    {
+      "start_time": 645,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luis Palos Matos introduce a Don Rafael Cepeda Atiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "fa5c2be5-c108-42cd-854f-32ced52442ea"
+    },
+    {
+      "start_time": 688,
+      "end_time": 992,
+      "annotation": [
+        {
+          "text": "\"Anaiso\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Anaiso "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, le "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, he "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Anaiso, bie"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, anaiso sesá Congolaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Congrué ay, anaiso bie "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Iso coco mi Mayaguez"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Congrué ay, anaiso bie"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, cuando yo estaba enfermo nadie me vino "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A ver Congrué ay, anaiso bie "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, me voy desde Guayama salgo pa' Mayaguez"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Congrue, ay anaiso bie "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anaiso",
+          "category": "song title"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "distortion",
+          "category": "environment"
+        }
+      ],
+      "uuid": "e1e5abbd-6fcd-463f-9de1-6964c66b57c4"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Barrilé\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "97458fb5-bf29-4364-95e2-4936e45f5b60"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dance of bomba was born in the 17th century and, by the 18th, it had already spread throughout the coastal regions of our island. It is a blend of three cultures: Taíno, Spanish, and African. Its dance is a challenge between the dancer and the drummer. Don Rafael Cepeda, tireless folklorist and dancer, presents these foundations to us, grounded in a dynamic truth: our native music, Puerto Rican bomba!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "0cafb2ac-4be8-408a-bd53-f3b95d8660f7"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Otonono barrilé”\nChorus\nOtonono barrilé  \n(Otonono, barrel drum)\n\nVerses\nOtonono, long live my people\nOtonono, dance it well\nMy dada, my dadinué\nOtonono barrilé\nSo they’ll play my barrel drums\n\nOtonono, long live my people\nOtonono, dance it well\nMy dada, my dadinué\nOtonono barrilé\nSo they’ll play my barrel drums"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Otonono barrile",
+          "category": "song title"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "3f0e4817-3992-4c3d-be2d-f2759300ced6"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8d5ebdad-5132-4612-9cbe-d18a56a1e1fe",
+  "source_id": "53bd9dcd-756d-42d7-9977-2fbc30b9f596"
+}
