@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"raymondhyser","avatar_url":"https://avatars.githubusercontent.com/u/70617821?v=4","admin":true}],"project":{"github_org":"raymondhyser","is_private":false,"title":"Beyond the Batey","description":"\"Beyond the Batey,\" is an AVAnnotate Project, created by Ph.D. candidate in Ethnomusicology, Alexis R. Velazquez. It is a digital collection of audiovisual materials documenting bomba, an Afro–Puerto Rican music-dance practice, across community festivals, independent films, and commercial music videos. Compiled between September 2025 and January 2026, the site brings together YouTube recordings from community-based performances such as the Encuentro de Tambores, Encuentro de Cantaoras, and Magia de los Tambores, from 2018–2025 and also includes contemporary artists such as Rauw Alejandro, Residente, Puya, and Esoterica Tropical who have incorporated bomba into recent commercial releases. \n\nThe platform offers time-stamped annotations that include cantos de bomba, dance sequences, and interviews, as well as films such as Zafra Fusion Cepeda (1983), Raíces (2001), and Resistimos (2021). Through bilingual transcription and detailed labeling of subgenres, song titles, performers, and sociocultural themes—including cultural memory, Blackness, feminism, and labor—the project makes bomba materials more accessible and searchable for researchers and for community practitioners seeking deeper engagement source materials. \n\nThis project is significant in that it transforms dispersed public recordings into an organized scholarly resource. Because most letras de bomba (bomba lyrics) are not available in published form, each transcription required extensive listening and close analysis, offering greater insight into recurring lyrical themes within the tradition. By centralizing and annotating these materials, the project supports future scholarship and practice while sustaining elements of bomba’s cultural and musical history.","language":"en","slug":"beyond_the_batey","creator":"raymondhyser","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-12-15T19:18:12.029Z","updated_at":"2026-03-04T05:17:40.333Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"d29c8acc-b60b-4bdc-9fbd-63a1a5607bd3":{"content":[],"created_at":"2025-12-15T19:18:12.048Z","created_by":"raymondhyser","title":"Test for Kara","updated_at":"2025-12-15T19:18:12.048Z","updated_by":"raymondhyser","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["d29c8acc-b60b-4bdc-9fbd-63a1a5607bd3"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "raymondhyser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70617821?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "raymondhyser",
+    "is_private": false,
+    "title": "Beyond the Batey",
+    "description": "\"Beyond the Batey,\" is an AVAnnotate Project, created by Ph.D. candidate in Ethnomusicology, Alexis R. Velazquez. It is a digital collection of audiovisual materials documenting bomba, an Afro–Puerto Rican music-dance practice, across community festivals, independent films, and commercial music videos. Compiled between September 2025 and January 2026, the site brings together YouTube recordings from community-based performances such as the Encuentro de Tambores, Encuentro de Cantaoras, and Magia de los Tambores, from 2018–2025 and also includes contemporary artists such as Rauw Alejandro, Residente, Puya, and Esoterica Tropical who have incorporated bomba into recent commercial releases. \n\nThe platform offers time-stamped annotations that include cantos de bomba, dance sequences, and interviews, as well as films such as Zafra Fusion Cepeda (1983), Raíces (2001), and Resistimos (2021). Through bilingual transcription and detailed labeling of subgenres, song titles, performers, and sociocultural themes—including cultural memory, Blackness, feminism, and labor—the project makes bomba materials more accessible and searchable for researchers and for community practitioners seeking deeper engagement source materials. \n\nThis project is significant in that it transforms dispersed public recordings into an organized scholarly resource. Because most letras de bomba (bomba lyrics) are not available in published form, each transcription required extensive listening and close analysis, offering greater insight into recurring lyrical themes within the tradition. By centralizing and annotating these materials, the project supports future scholarship and practice while sustaining elements of bomba’s cultural and musical history.",
+    "language": "en",
+    "slug": "beyond_the_batey",
+    "creator": "raymondhyser",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-15T19:18:12.029Z",
+    "updated_at": "2026-03-04T05:19:25.895Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d29c8acc-b60b-4bdc-9fbd-63a1a5607bd3": {
+      "content": [],
+      "created_at": "2025-12-15T19:18:12.048Z",
+      "created_by": "raymondhyser",
+      "title": "Test for Kara",
+      "updated_at": "2025-12-15T19:18:12.048Z",
+      "updated_by": "raymondhyser",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d29c8acc-b60b-4bdc-9fbd-63a1a5607bd3"
+  ]
+}
