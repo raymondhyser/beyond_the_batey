@@ -1,5 +1,121 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La boru cana\" continúa.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "af3b4edb-6769-4c1e-9131-4ad3070c6d0b"
+    },
+    {
+      "start_time": 28,
+      "end_time": 202,
+      "annotation": [
+        {
+          "text": "\"En la hacienda Caridad\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba de verdad"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba de verdad"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba y nada má(s)"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "En la hacienda de Caridad",
+          "category": "song title"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        }
+      ],
+      "uuid": "a9ff7b88-4f92-48cf-877e-c7231d66870d"
+    }
+  ],
   "event_id": "5bf43a02-1e96-4788-a960-377c60a6bc02",
   "set": "Spanish",
   "source_id": "c6174335-d152-47a5-a92a-e42974663e08"
