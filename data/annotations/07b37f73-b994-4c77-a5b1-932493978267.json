@@ -1,5 +1,181 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 187,
+      "end_time": 365,
+      "annotation": [
+        {
+          "text": "\"Majestad Negra\" performed by Petra Cepeda",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Por la encendida calle antillana\nva Tembandumba de la Quimbamba\nRumba macumba candombe bámbula\nentre dos filas de negras caras\nAnte ella un congo gongo y maraca\nritma una conga bomba que bamba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Culipandeando la Reina avanza\ny de su inmensa grupa resbalan\nmeneos cachondos que el gongo cuaja\nen ríos de azúcar y de melaza\nPrieto trapiche de sensual zafra\nel caderamen, masa con masa\nexprime ritmos, suda que sangra\ny la molienda culmina en danza"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Por la encendida calle antillana\nva Tembandumba de la Quimbamba\nFlor de Tortola, rosa de Uganda\npor ti crepitan bombas y bámbulas\npor ti en calendas desenfrenadas\nquema la Antilla su sangre ñáñiga\nHaití te ofrece sus calabazas\nfogosos rones te da Jamaica\nCuba te dice: ¡dale, mulata\nY Puerto Rico melao melamba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Sús mis cocolos de negras caras\nTronad tambores vibrad maracas\nPor la encendida calle antillana\nrumba macumba candombe bámbula\nva Tembandumba de la Quimbamba"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Petra Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "148ec3f2-b7af-410d-b2a4-8bdc37841703"
+    },
+    {
+      "start_time": 400,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "text": "\"Reina de Carnaval\" or \"Vejigante come coco\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo vi un diablo verde\n(Pintao' en la cocina)\nVejigante está pintao'\n(De amarillo y colorao')\nCulebra en la Loiza\nSiete pescaos\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy (Carnaval)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para Gozar (Carnaval)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para bailar (Carnaval)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vejigante come coco",
+          "category": "song title"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "1705c45d-5a74-4a34-986f-7450c55c214a"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified Plena"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "f7622cd2-6165-4ccc-b8d6-2406aa450925"
+    }
+  ],
   "event_id": "223513a0-d915-4308-9354-f33d8a6c873e",
   "set": "Spanish",
   "source_id": "1324c226-f715-40e6-80fa-96be9a9e916e"
