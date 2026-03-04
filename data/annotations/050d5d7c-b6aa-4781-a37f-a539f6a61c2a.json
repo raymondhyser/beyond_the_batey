@@ -392,32 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 1760,
-      "end_time": 1988,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Palo'e bandera\" Nellie Lebrón y Paracumbe",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Palo'e bandera"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Nellie LeBrón y Paracumbé"
-        }
-      ],
-      "uuid": "db8a93a2-39ff-4918-a365-64306ebfb418"
-    },
-    {
       "start_time": 1995,
       "end_time": 2220,
       "annotation": [
