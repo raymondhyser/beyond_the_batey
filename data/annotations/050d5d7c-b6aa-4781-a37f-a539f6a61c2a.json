@@ -390,6 +390,798 @@
         }
       ],
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d68eee25-2249-4585-b5e9-c396455cb706"
+    },
+    {
+      "start_time": 166,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entrevista con Maribella Burgo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc0555e1-6de9-4030-97aa-4f159b234a86"
+    },
+    {
+      "start_time": 763,
+      "end_time": 2470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Part 1: Encuentro de Cantaoras (Professional)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f82a2ca-08a9-4383-ad80-6868887438a1"
+    },
+    {
+      "start_time": 765,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bambulé\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bacbaf0e-0d99-4ee4-922c-703518889587"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "text": "\"Liberté\". Composed by Félix Alduén (Mayaguez)",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "bold": true
+        },
+        {
+          "text": "Liberté, liberté!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, liberté, liberté!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, Dios mio, que coche!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, Dios mio, que coche!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Eh, que coche!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, Dios que coche!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Liberté, liberté"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Félix Alduén",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "52efb599-02a0-4e42-ab9b-0e2ec7d1caf1"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "text": "\"Los paleros\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Los paleros, los paleros, los paleros de boca chica que los (gobierna) Goyo Mangual"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que rico, y que bueno que los paleros de boca chica que los (gobierna) Goyo Mangual"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Voy pa' la central Mercedita, pero la cana voy a emburrar, con las paleros de boca chica que los gobierna Goyo Mangual. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cojo el machete alla en Boca Chica, pero trabajo voy a llevar, con las paleros de boca chica que (gobierna) Goyo Mangual. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hasta la bomba de Loiza. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "17bc52cb-8b24-443c-b6e2-549f968d84cd"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "6401f55c-7026-4383-91d0-8fc17de79f0f"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Palo'e bandera\" Nellie Lebrón y Paracumbe",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Palo'e bandera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nellie LeBrón y Paracumbé"
+        }
+      ],
+      "uuid": "db8a93a2-39ff-4918-a365-64306ebfb418"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "fbaed732-39ce-49c5-9977-60a458db5a68"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2418,
+      "annotation": [
+        {
+          "text": "\"Llevamé la falda\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Llega con (estada), con mis ancestra(s)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Llevamé la falda y una maraca que yo voy a cantar!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuembe a baile."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y que llave con ustedes..."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Busca una falda y una maraca, que voy a cantar!"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "41d86f33-4e50-4de9-ab81-d75f6bc5548d"
+    },
+    {
+      "start_time": 2471,
+      "end_time": 3033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Open Batey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b13a34e7-72ee-4868-8f62-042f376d3c31"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2580,
+      "annotation": [
+        {
+          "text": "\"Pronto, llegaré\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pronto llegaré, pronto llegaré!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pronto de Loiza, pronto llegaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "eeceae29-7e7c-4112-a39d-15bebb03760b"
+    },
+    {
+      "start_time": 2756,
+      "end_time": 2990,
+      "annotation": [
+        {
+          "text": "\"Rulé Candela\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rulé Candela!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy pa' las Carerras"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A bailar la bomba buena"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rulé Candela"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo me voy pa' la Loiza"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para casa de mi abuela"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy hasta mañana"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy pa' la Guayama"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rulé Candela "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rulé, rulé Candela "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Eh, Candela "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy pa' bailar bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rulé, rulé, rulé Candela"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy pa' la Loiza"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que yo me voy hasta mañana"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rulé candela",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "8f945f2a-4717-4f9c-bf79-409e8f0914ea"
     }
   ],
   "set": "Default",
