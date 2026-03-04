@@ -392,22 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 0,
-      "end_time": 165,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d68eee25-2249-4585-b5e9-c396455cb706"
-    },
-    {
       "start_time": 166,
       "end_time": 540,
       "annotation": [
