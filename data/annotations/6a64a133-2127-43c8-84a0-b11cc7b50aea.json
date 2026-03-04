@@ -1,5 +1,651 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5940,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "text": "\"Leró de Mi Leró\" Modesto Cepeda",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi Leró de Mi Leró"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para yo cantar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Leró de Mi Leró "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para yo bailar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi Leró, de Mi Leró"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Toca la maraca "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Toca de Yuba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena la maraca"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi Leró de Mi Leró"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pa' Julian Mangual"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Lero, lero,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Lero de mi Lero pa' Julian Mangual"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Leró de Mi Leró"
+        },
+        {
+          "tag": "Modesto Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "de679ebc-3766-4cdf-bc48-e055d49948c0"
+    },
+    {
+      "start_time": 5964,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "text": "\"Esa, esa Dominé\" composed by Rafael Cepeda",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Esa, esa Dominé"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Esa, esa Dominé"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi salvatore de viva mue"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bomba, bomba me cure "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi Salvatore, ah!"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Esa esa Dominé"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "76cc45ec-06dd-4b80-be97-eaae5de1ca03"
+    },
+    {
+      "start_time": 6710,
+      "end_time": 6840,
+      "annotation": [
+        {
+          "text": "\"Cimmaronaje\" Norka Hernandez Nadal Delegación de la Diáspora",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Aye ya"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Corta la caña "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Caña no muero "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Corta la caña Manuel "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Corta la caña Manuel "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cimarronaje",
+          "category": "song title"
+        },
+        {
+          "tag": "cimarrón",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "freedom",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Norka Hernandez"
+        }
+      ],
+      "uuid": "fe68fbb2-4f10-4a5a-9561-67b02dc2d826"
+    },
+    {
+      "start_time": 7820,
+      "end_time": 8220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transición entre grupos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "distortion",
+          "category": "environment"
+        }
+      ],
+      "uuid": "39505c78-1ecc-45b4-82df-764f72297033"
+    },
+    {
+      "start_time": 7920,
+      "end_time": 7980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellos hablan sobre anti racismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "racism",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "d2df18fc-9c26-45ee-8119-d0f6bacf9a54"
+    },
+    {
+      "start_time": 8580,
+      "end_time": 8760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ella habla sobre orgullo cultural.  Durante este segmento, el batey esta abierta para todos a bailar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "be8981f5-cf8a-4ed8-9592-cfff6b9f79ba"
+    },
+    {
+      "start_time": 8700,
+      "end_time": 8820,
+      "annotation": [
+        {
+          "text": "\"Hija del alma\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hija del alma "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mamá me dijo "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Baila esta bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Baila conmigo "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay hija del alma que yo te lo pido"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que baila esta bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cantaré contigo"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "distortion",
+          "category": "environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hija del alma"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "4ec73261-2d80-4e3c-9387-e10b4907c801"
+    }
+  ],
   "set": "Default",
   "event_id": "ba071205-bce6-49d8-be6d-6e3b3c0eec97",
   "source_id": "ee00e0eb-713b-4f53-be20-f757fc7ecaaf"
