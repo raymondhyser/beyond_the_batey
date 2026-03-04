@@ -392,22 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 166,
-      "end_time": 540,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Entrevista con Maribella Burgo"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "fc0555e1-6de9-4030-97aa-4f159b234a86"
-    },
-    {
       "start_time": 763,
       "end_time": 2470,
       "annotation": [
