@@ -1,1 +1,364 @@
-{"annotations":[],"set":"Default","event_id":"3fadc51b-daf8-4e64-8571-693ce1664f83","source_id":"8da35534-5798-47a2-810b-e9117af53b22"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 356,
+      "annotation": [
+        {
+          "text": "“Esa, esa Dominé” Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That one, that one, Dominé\nThat one, that one, Dominé\nThat one, that one, Dominé\nMy savior of living strength"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tell Valentín\nWhat Manuel told him:\nNot to go to the bomba if Paulé wasn’t dancing"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, yesterday I saw Urubina\nShe told me, “What do you want?”\nIf you light a candle for her, you must light it upside down"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They’re already buzzing together\nAlong the Portugués River\nShe carries a spell in her hand\nTo win over José"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That one, that one, Dominé\nThat one, that one, Shangoté\nThat one, that one, living strength\nMy savior of Shangoté"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "3710ee3b-4aca-4efd-80c2-3f20c7d10ee4"
+    },
+    {
+      "start_time": 357,
+      "end_time": 462,
+      "annotation": [
+        {
+          "text": "“Son más divina” Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They are, they are more divine"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "More divine, they sway in balance\nMore divine, they are (I am Laré)\nMore divine, they sway in balance"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "Son mas divina",
+          "category": "song title"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "277e31ed-5715-4001-ae2c-87a54ddbe24a"
+    },
+    {
+      "start_time": 474,
+      "end_time": 953,
+      "annotation": [
+        {
+          "text": "\"Petronila Guilbe\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe, I do not confess"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, that I did not confess, that I did not confess\nAy, ask the priest, ask the judge\nAy, let the drums that Manuel played sound\nAy, Petronila Guilbe, that I did not confess\nAy, singing sweet bomba, I’m heading to Mayagüez\n\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "Petronila Guilbe",
+          "category": "song title"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "b14232e6-8d54-4ebb-998d-a2e9c0ac4968"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music of Cangrejos en el río is one of those traditions well known on the farms, where they light up the riverbeds to find the roe and prepare the sacks to gather the catch. Beautifully performed by the Cepeda family. Let us continue with La Borucana. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "78b6d262-7345-4846-8b47-f90f05be5a2a"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "text": "\"La Boru Cana\" Don Rafael Cepeda",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The good herb "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Boru cana "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(unintelligible)"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "La boru cana",
+          "category": "song title"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "b55157be-81a9-4e09-88c5-1c6c9ec11fe4"
+    }
+  ],
+  "set": "Default",
+  "event_id": "3fadc51b-daf8-4e64-8571-693ce1664f83",
+  "source_id": "8da35534-5798-47a2-810b-e9117af53b22"
+}
