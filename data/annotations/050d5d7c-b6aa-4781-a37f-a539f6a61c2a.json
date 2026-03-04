@@ -1,5 +1,397 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed61c237-1d8e-469c-a99a-9c3b89eb357a"
+    },
+    {
+      "start_time": 166,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interview with Maribella Burgos. A well known bomba instructor from Loiza, and the organizer of this festival."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b3573652-22c4-4477-a872-fe940b505cdd"
+    },
+    {
+      "start_time": 763,
+      "end_time": 2470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Part 1: Encuentro de Cantaoras (Professional)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ff9f826-6e3c-45a7-b2d6-91ec3b376483"
+    },
+    {
+      "start_time": 765,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bambulé\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e029c18-489a-4509-8798-53f656277a08"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liberté. Compositada por Félix Alduén (Mayaguez) Chorus  \nLiberty, liberty\nVerses  \nAy, liberty, liberty\nOh my God, what a mess\nOh my God, what a mess\nEh, what a mess\nOh God, what a mess\nLiberty, liberty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Félix Alduén",
+          "category": "speaker"
+        },
+        {
+          "tag": "freedom",
+          "category": "analysis"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "colonialism",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c2e23986-e9c4-4f52-afad-ade244188af6"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "text": "\"Los paleros\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus  \nThe paleros, the paleros, the paleros from Boca Chica\nwho are led by Goyo Mangual\nVerses  \nHow delicious, how good are the paleros from Boca Chica\nwho are led by Goyo Mangual\nI’m heading to Central Mercedita\nbut I’m going to load up the cane\nwith the paleros from Boca Chica\nwho are led by Goyo Mangual\nI grab the machete over in Boca Chica\nbut I’m going to bring work\nwith the paleros from Boca Chica\nwho are led by Goyo Mangual\nAll the way to the bomba of Loíza"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Los paleros de Boca Chica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "058d9400-7382-4362-ac53-82361983b2f0"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "9de8b774-c4f0-4321-aed4-88f642480901"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Palo'e bandera\" Nellie Lebrón y Paracumbe",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Palo'e bandera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nellie LeBrón y Paracumbé"
+        }
+      ],
+      "uuid": "37fe5ff6-cc47-4e76-b0af-8265d8b1454d"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "a731c3e9-75dc-4d75-b8e6-0e7c7127e518"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2418,
+      "annotation": [
+        {
+          "text": "\"Llevamé la falda\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus  \nArrive with presence, with my ancestors\nTake my skirt and a maraca, because I’m going to sing\nVerses  \nCúembe, let’s dance\nAnd may the key be with you all…\nFind a skirt and a maraca, because I’m going to sing"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Llevamé la falda"
+        }
+      ],
+      "uuid": "726d31ea-a263-4f99-8331-4b58e723f074"
+    },
+    {
+      "start_time": 2471,
+      "end_time": 3033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Open Batey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "263c8227-f23b-48d2-b0e0-93229d76aa12"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2580,
+      "annotation": [
+        {
+          "text": "\"Pronto, llegaré\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Soon, they will arrive! Soon they will arrive! Soon, those from Loiza, soon they will arrive!"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "0da19979-4a19-402d-a3a7-8553695d6b4a"
+    },
+    {
+      "start_time": 2756,
+      "end_time": 2990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rulé Candela\"Chorus  \nRulé, Candela\nVerses  \nI’m heading to Las Carreras\nTo dance the good bomba\nRulé, Candela\nI’m heading to Loíza\nTo my grandmother’s house\nI’m leaving until tomorrow\nI’m heading to Guayama\nRulé, Candela\nRulé, rulé, Candela\nEh, Candela\nI’m going to dance bomba\nRulé, rulé, rulé, Candela\nI’m heading to Loíza\nI’m leaving until tomorrow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rulé candela",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
+    }
+  ],
   "set": "Default",
   "event_id": "39cc2b41-1cff-42aa-b177-ad4a6402cd47",
   "source_id": "ccaba44b-6cb0-4e0d-88cc-0f9bc3de84e3"
