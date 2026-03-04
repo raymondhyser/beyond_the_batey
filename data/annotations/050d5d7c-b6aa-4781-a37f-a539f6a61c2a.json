@@ -392,22 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 765,
-      "end_time": 1179,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Bambulé\""
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "bacbaf0e-0d99-4ee4-922c-703518889587"
-    },
-    {
       "start_time": 1180,
       "end_time": 1321,
       "annotation": [
