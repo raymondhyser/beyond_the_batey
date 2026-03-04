@@ -1,1 +1,4096 @@
-{"annotations":[],"set":"Default","event_id":"1dbefbeb-f271-4e4c-9ff0-d5eb99a87c91","source_id":"d7d7a335-afcb-427d-9f7a-ad2943faace0"}
+{
+  "annotations": [
+    {
+      "start_time": 33,
+      "end_time": 67,
+      "annotation": [
+        {
+          "text": "“Estoy buscando un árbol que me dé sombra.\"",
+          "bold": true
+        },
+        {
+          "text": " This traditional tune opens the film and then transitions into a salsa adaptation signaling musical fusion. The accompanying images of the film depict the following: bomba practitioners or bomberos playing the barriles and dancing, a traditional casita, a tree growing and its roots and seeds fertilizing the earth. "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        },
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        }
+      ],
+      "uuid": "0ef8bcdf-7296-4465-9255-2b85ca4f2d56"
+    },
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. Assuming my people are ready, a chronicler arrives, the protagonist of a story that pays homage to rhythm, the drum, and cadence, giving essence and relevance to powerful memories, claiming a space within a culture that has sometimes forgotten the splendor of its Black heritage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "5f34d59e-c56b-4ac7-8bdb-9abb1c4b3e30"
+    },
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo E. Romero Joseph (b. 1993) was a hip hop MC who is also known for his activism and values of social justice. In this clip he sings in Spanish rapping the following  Presuemiendo que mi gente se encuentre lista llega un cronista protagonista de una historiaque le rinde culto al ritmo el tambor y la cadencia dando esencia y vigencia a fuertes memorias reclamando un espacio al interior de una cultura que en ocasiones ha olvidado el espelendor de su negrura. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        }
+      ],
+      "uuid": "fafb3c6c-ed47-4c36-b9e1-f08fa58da04f"
+    },
+    {
+      "start_time": 90,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A singer sings in an African dialect. Most likely creole. \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33d684ee-709f-415b-8845-401dc7f94cb6"
+    },
+    {
+      "start_time": 90,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A singer sings a segment in an unidentified African or Creole dialect. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40a3f18b-bd32-4033-abe1-99c93167ffa9"
+    },
+    {
+      "start_time": 133,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later, a flamenco singer accompanies images and text that state that \"bomba and plena are products of musical fusions of Taíno, Spanish, and African influences—a back-and-forth exchange of influences. This influence would affect all aspects of life on this island.” Musical lyrics are mostly unintelligible during this segment.\nA Flamenco singer known as Olgan Tanon accompanies images and text that state  “La bomba y la plena son productos de fusiones musicales de la taína la española y la africana un ir y venir de influencias. Esta influencia afectaría toda la vida de esta isla.” Musical lyrics are mostly unintelligible during this segment. Then, an electric guitar transitions into “Cuembe na’ma,” a bomba song presented here as a salsa fusion adaptation. Flamenco singer Olga Tañón (A Puerto Rican singer known as the Queen of Merengue performs accompanied by palmas (handclaps) while a bomba dancer is present. Traditional jaleos are heard along with interruptions from the barriles creating a call and response between the palmas and the drums. The clips showcases highly virtuosic singing. The batey (or space in which bomba is performed) is located at an outdoor location and used modern sound equipment. Marc Anthony also has a small solo during this performance segment. Giovanni Hidalgo is on the barriles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "tag": "Cuembe na ma",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "flamenco",
+          "category": "genre"
+        },
+        {
+          "tag": "palmas",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "guitar",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "fd9e3dc6-8a20-4d58-821d-a08af1404541"
+    },
+    {
+      "start_time": 133,
+      "end_time": 225,
+      "annotation": [
+        {
+          "text": "A Flamenco singer known as Olgan Tanon accompanies images and text that state  “La bomba y la plena son productos de fusiones musicales de la taína la española y la africana un ir y venir de influencias. Esta influencia afectaría toda la vida de esta isla.” Musical lyrics are mostly unintelligible during this segment. Then, an electric guitar transitions into "
+        },
+        {
+          "text": "“Cuembe na’ma,”",
+          "bold": true
+        },
+        {
+          "text": " a bomba song presented here as a salsa fusion adaptation. Flamenco singer Olga Tañón (A Puerto Rican singer known as the Queen of Merengue performs accompanied by palmas (handclaps) while a bomba dancer is present. Traditional jaleos are heard along with interruptions from the barriles creating a call and response between the palmas and the drums. The clips showcases highly virtuosic singing. The batey (or space in which bomba is performed) is located at an outdoor location and used modern sound equipment. Marc Anthony also has a small solo during this performance segment. Giovanni Hidalgo is on the barriles.\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "Marc Anthony",
+          "category": "speaker"
+        },
+        {
+          "tag": "Cuembe na ma",
+          "category": "song title"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "tag": "palmas",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "guitar",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "bc8151b2-c3a9-4eb0-8524-5e389e823ad7"
+    },
+    {
+      "start_time": 241,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "\"Agustito\" Olga Tañón ft. Marc Anthony  ",
+          "bold": true
+        },
+        {
+          "text": "\nI'm from the street and the back door  \nWhere the rhythm is hot  \nHere everyone wants to have fun  \nI know this is my people  \nThe smoke from a joint makes me \nHere there are neither nights nor days  \nI know that everything in this life will pass and I will never change  \n"
+        },
+        {
+          "text": "Chorus  ",
+          "bold": true
+        },
+        {
+          "text": "\nNow that we are so comfortable, so comfortable, so comfortable you see  \nNow that we are so comfortable, so comfortable, so comfortable you see \nNow that we are so comfortable, so comfortable, so comfortable you see  \nNow that we are so comfortable, so comfortable, so comfortable you see \n"
+        },
+        {
+          "text": "Verse",
+          "bold": true
+        },
+        {
+          "text": "\nSo you know who I really am, where I come from, and where I'm going  \nI'm going to tell you a story, what you should know, the blood that runs is pure fire!  \nI'll tell you why  \n(Call) Attack it, (referring to the drums) José!"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "Marc Anthony",
+          "category": "speaker"
+        },
+        {
+          "tag": "pandereta",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "b1aa46fe-376e-4d49-ac1b-5da7576e0ed5"
+    },
+    {
+      "start_time": 327,
+      "end_time": 375,
+      "annotation": [
+        {
+          "text": "\"Disillusion\" Lucecita Benítez",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "text": "\nIt's a pain I can't bear\nIt's a pain I can't endure\nI feel in my soul a cruel disappointment for that love that went away with my affection\nIt's a pain I can't bear\nIt's a pain I can't endure\nI feel in my soul a cruel disappointment\nFor that love that went away with my affection\n"
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "text": "\nYou loved me, you loved me and I didn't know how to understand you\nThat I forget you, that I forget you, that can never happen\nYou loved me, you loved me and I didn't know how to understand you\nThat I forget you, that I forget you, that can never happen\n"
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "text": "\nIt's a pain I can't bear\nIt's a pain I can't endure\nI feel in my soul a cruel disappointment for that love that went away with my affection\nIt's a pain I can't bear\nIt's a pain I can't endure\nI feel in my soul a cruel disappointment for that love that went away with my affection\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "Lucecita Benítez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "bc1401c1-5146-49fd-8b09-e274f30381b8"
+    },
+    {
+      "start_time": 375,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo intervenes once again with a narrative rap transition. Stating the following: I don’t pretend to replace absent voices nor claim that my speech is the only reference. Dance bomba, play plena. What I say is worth hearing. What matters is the connection between past and present.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "6d7eca6f-06f2-424a-8eca-7553e9cbac38"
+    },
+    {
+      "start_time": 375,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo intervenes once again with a narrative rap transition. His rap declares: \"No pretendo ser el reemplazo de voces ausentes ni decir que mi oratoria es la única referencia. Baile bomba, toques de plena—lo que digo vale la pena. Lo importante es la conexión del pasado con el presente.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "aba9f915-b2c7-47d9-9dd9-fdd68d11099b"
+    },
+    {
+      "start_time": 400,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the sugar cane plantations by Epifanio Izarrio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "62406435-e4d2-4683-849e-573ce541e267"
+    },
+    {
+      "start_time": 418,
+      "end_time": 480,
+      "annotation": [
+        {
+          "text": "Ruth Fernandez sings "
+        },
+        {
+          "text": "\"Negra triste\".",
+          "bold": true
+        },
+        {
+          "text": " A song which discusses a Black woman who loses her love and suffers due to this loss. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ya Negro Murió or \"Negra Triste\" (Aguadilla)",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Negra triste porque ya el negro murió porque ya el negro durmió mas nunca va a disfrutar el guateque— solo quedó la negra."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La negra no cesa de llorar ¡ay su dolor! "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Negra está triste negra sola llora su pena llora su pena y su dolor."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "El negro que tanto quiso está en los reinos de Dios. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Negra está triste está llorando su amor está llorando a su negro su negro que tanto amó."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "La Negra Triste",
+          "category": "song title"
+        },
+        {
+          "tag": "Ruth Fernández",
+          "category": "speaker"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "cd2cc0fd-2bda-4a42-a83c-734650df7724"
+    },
+    {
+      "start_time": 494,
+      "end_time": 522,
+      "annotation": [
+        {
+          "text": "Angel Chuco Rivera:",
+          "bold": true
+        },
+        {
+          "text": " I love how the slave owners tried to group together people on a plantation who came from different parts of Africa in such a way that they couldn't speak to each other. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Margarita Tata Cepeda: ",
+          "bold": true
+        },
+        {
+          "text": "They brought their religion, they brought their music, they brought everything.\n"
+        },
+        {
+          "text": "New Speaker: ",
+          "bold": true
+        },
+        {
+          "text": " And so, of course, many people communicated more through a form that different regions did share: rhythmic genres, forms of bodily communication. Well, look, they had to release all that fury, all that anger, all that feeling. How did they do it? They would gather on Saturday nights in the sugarcane fields, hidden from the overseers, to dance bomba."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Margarita Tata Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Angel Chuco Rivera",
+          "category": "speaker"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "8fe182e8-aed1-474a-bb94-00c0bad8cfc1"
+    },
+    {
+      "start_time": 535,
+      "end_time": 590,
+      "annotation": [
+        {
+          "text": "“Cachón says Elena” (Leró)",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "text": "\nCachón says Elena\nCachón says Elena\nOh, Cachón says Elena that she's going to look for protection to shield herself\n"
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "text": "\nWhen she passes through Guayanilla\nWhen she comes back and travels\nShe's going to look for protection to shield herself.\n"
+        },
+        {
+          "text": "\"Cachón Says Elena\" first features a 1950s recording of early bomba, which transitions into a professional commercial recording by Nelie Robles Lebrón and Paracumbé from 1997.",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nellie Lebrón y Paracumbe",
+          "category": "speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nellie LeBrón y Paracumbé"
+        },
+        {
+          "tag": "Cachón dice Elena",
+          "category": "song title"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "438ce794-8993-4f4e-866f-56f37ab5c638"
+    },
+    {
+      "start_time": 597,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petra Cepeda says that the bomba, for me, was the dance of the black people and it was like the minuet; it was the popular response to the music and dance of the aristocracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Petra Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "46c8aa12-3b02-459d-9f16-e159a7883f98"
+    },
+    {
+      "start_time": 612,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. I get up, I take a breath, I follow the rhythm, I clear my head in the blood of a race that looks in the mirror with black hands, hands that throw themselves onto the leather. Song, dance, rhythm. Song, dance, rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "b093eb8c-85a0-4f24-8447-ac7643923b5c"
+    },
+    {
+      "start_time": 648,
+      "end_time": 680,
+      "annotation": [
+        {
+          "text": "\"I Heard a Voice\" (Mayaguez)  ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Chorus  ",
+          "bold": true
+        },
+        {
+          "text": "\nI heard a voice  \nI heard a voice  \nI heard a divine voice from heaven that called me  \n"
+        },
+        {
+          "text": "Verses  ",
+          "bold": true
+        },
+        {
+          "text": "\nA divine voice from heaven  \nHere I am  \nAs it says, it touches  \nYou touch me, the mulatto  \nSays mulatto  \nIt called me  \nEh, it called me  \nEh, it called me\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Félix Alduén",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "9c85d1b6-b069-4f61-a273-8067d5b3a048"
+    },
+    {
+      "start_time": 685,
+      "end_time": 783,
+      "annotation": [
+        {
+          "text": "\"Give me the memory\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Give me the memory"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Give me the memory"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Give me the memory that I sent him"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Come on, the memory that I sent him"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Give me the memory, Tata, that I sent him"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "0261014c-36cd-43cc-bf8d-435f41631d5a"
+    },
+    {
+      "start_time": 815,
+      "end_time": 4433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the origins and history of plena in Ponce."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "686c005e-8179-4dd1-82a4-2e213da8e3ae"
+    },
+    {
+      "start_time": 836,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramón M. Gomez. This is the famous story of this couple who came from the Lesser Antilles and settled in Ponce. It's about a woman named Ana and how they started playing music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "6ce27eb8-29aa-4476-9684-29aa1dc197e7"
+    },
+    {
+      "start_time": 888,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "text": "\"Plena De San Anton\" performed by Los Pleneros de la 21 and Michael Stuart. The original composer was Chago Montes.",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The plena that I know is not from China, nor from Japan, because the plena comes from Ponce, from the San Antón neighborhood."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Because the plena comes from Ponce, from the San Antón neighborhood."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Some say it's from Guayama and others that it's from Bayamón."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But the plena comes from Ponce, from the San Antón neighborhood. But the plena comes from Ponce, from the San Antón neighborhood."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plena de San Anton",
+          "category": "song title"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Los Pleneros de 21",
+          "category": "speaker"
+        },
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e1e2cfab-776d-40b0-bc6f-76926384989f"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps over a reggae rhythm and electric guitar. Es tiempo de un cambio de en boca y escena me presento en mis rimas el género de plena como crónica que narra lo que el barrio bien respira es periodismo melódico relatos fantásticos en realidad del la rabal su pobreza y su músico historias de sucesos al castigo rústicos sucesos condados de generación en generación brindando a la monotonía un nuevo curso de acción. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "8d0d55da-5cfa-4b54-b3ca-f0bccbc9a2b7"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "text": "\"False Baquine Song\" performed by Julio Axel Ladrón. Written by Luis Palos Matos.",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now he will see the beach "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now he will see the palm grove"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now before the great fire with Tembandumbá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "He will be able to dance"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now he will see the beach"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now he will see the palm grove"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "But now before the great fire with Tembandumbá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "He will be able to dance"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "With Tembandumbá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "He will be able to dance"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "With Tembandumbá"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And to Guinea his zombie flies "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coquí, cocó, cucú, cacá "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bombo, the great mongo, beneath the jungle"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His tender steps will lead"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Neither white shadow on the grass"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Nor black sorcerer will hinder him"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bombo, the great mongo, beneath the jungle"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His tender steps will lead"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His tender steps will lead"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His tender steps"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        },
+        {
+          "tag": "La falsa baquine",
+          "category": "song title"
+        }
+      ],
+      "uuid": "2dceacc2-272a-4c38-9354-31e81219a08c"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "text": "\"So Much Vanity\" (Manati) performed by Plena Libre",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "So much vanity (so much vanity)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "So much hypocrisy"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "If your body after death"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Belongs to the cold grave"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "So much vanity (so much vanity)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "So much hypocrisy"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "If your body after death"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Belongs to the cold grave"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Tanta vanidad",
+          "category": "song title"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        }
+      ],
+      "uuid": "1814cdb7-3cc2-409b-9d37-f58c4ad1a0ea"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "text": "\"When Women\" (Ponce)",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When women love men"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When women love men"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They light four candles and place them in the corners"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They buy those books they call \"connection books\""
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We say the prayers"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "My four candles learn it"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We sing"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Beautiful things"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We fall in love"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The Africans"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We adore them"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They love the men"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Las mujeres quieran los hombre",
+          "category": "song title"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        }
+      ],
+      "uuid": "ac41d9b9-8bd8-43ed-99d2-fde1aae5e247"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A ti na' ma\" Olga Tanon and Plena Libre",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "d6fdda5e-6348-4040-9883-1da7ddf84a6c"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "text": "\"Storm\" Plena Libre",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Storm, storm, the storm is coming"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Storm, storm, the storm is coming"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "What will become of Puerto Rico when the storm arrives?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "What will become of my Borinquen when the storm arrives?"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "Temporal",
+          "category": "song title"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "30fdc23f-5272-46c4-aa72-8bb5556c0b68"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "text": "\"Landié\" Félix Alduén  \nChorus  ",
+          "bold": true
+        },
+        {
+          "text": "\nLandié lan lan dioyé  \nLandié lan lan dioyé  \nLandié Landié ay landié lan lan deloyé  \n"
+        },
+        {
+          "text": "Verses  ",
+          "bold": true
+        },
+        {
+          "text": "\nI want to see my friends dance Maria Isabel's bomba  \nTo dance it properly  \nLandié lan lan deloyé  \nOh, a bomba dance at José's house and they're playing Yuba in French\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Félix Alduén",
+          "category": "speaker"
+        },
+        {
+          "tag": "Landié",
+          "category": "song title"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "5647bf75-3c24-46cc-8160-042d4ec62d68"
+    },
+    {
+      "start_time": 1700,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "text": "“Hueso na’má”",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "text": "  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bone, just bone  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bone, just bone  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bone, just bone  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "From my girlfriend, just bone"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses ",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, so much envy, so much vanity"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, so much envy, so much falseness"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "If what you’ve got is nothing but bone"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hueso na má",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "830e0690-7c42-4005-97d6-3715f2741a35"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 1887,
+      "annotation": [
+        {
+          "text": "\"Mamá cuídame a Belén\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mama, take care of Belén for me\nTake care of Belén, mama\nMama, take care of Belén for me\nTake care of Belén, mama"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, dance that bomba for me\nAy, until dawn\nPlay the bomba for me\nAy, with a quality beat\nAy, give me, give me that beat\nPlay that for me now\nPlay the bomba for me\nPlay the cuás for me\nPlay the bomba for me\nPlay the cuás for me\nYes, give it, give it that beat\nAll the way until dawn\nAy, give me, give me bomba\nUntil dawn\nPlay the bomba for me\nAy, play it for me now\nMama, take care of Belén for me\nTake care of Belén, mama\nYes, give it, give it that beat\nAy, a quality beat\nPlay the bomba for me\nAy, until dawn\nYes, give it, give it that beat\nAy, the dagger‑sharp beat"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Mamá cuídame a Belén",
+          "category": "song title"
+        },
+        {
+          "tag": "belén",
+          "category": "genre"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nellie LeBrón y Paracumbé"
+        }
+      ],
+      "uuid": "c2fa3fc1-7bd5-4bdd-95f5-e3fba3395719"
+    },
+    {
+      "start_time": 1894,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "text": "\"Estoy Buscando un Árbol” (Santurce). Escrito por Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I’m looking for a tree that gives me shade\nThat gives me shade\nThat gives me shade\nI’m looking for a tree that gives me shade\nBecause I’m feeling hot, it’s getting to me\nI’m looking for a tree that gives me shade\nAy, and if it’s handsome, let it let me kiss it\nI’m looking for a tree that gives me shade\nAy, and if it’s good, in my loneliness\nI’m looking for a tree that gives me shade\nAy, one that is very lovely, like the ylang‑ylang\nI’m looking for a tree that gives me shade\nOne that won’t leave me, that will have mercy\nI’m looking for a tree that gives me shade"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        },
+        {
+          "tag": "suffering",
+          "category": "analysis"
+        },
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "La Familia Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "5bb2f9c0-61e1-452b-abae-db9eafc20cec"
+    },
+    {
+      "start_time": 1930,
+      "end_time": 2004,
+      "annotation": [
+        {
+          "text": "“Oh Queen Lelé” (Catano) ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Chorus  ",
+          "bold": true
+        },
+        {
+          "text": "\nOh Queen Lelé, oh queen  \nOh Queen Lelé  \nIf I see her, what will I say  \n"
+        },
+        {
+          "text": "Verses  ",
+          "bold": true
+        },
+        {
+          "text": "\nIf I see her, what will I say  \nIf I see her, what will I say\n\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oh reina lelé",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "3b663516-b5f3-408b-8600-18f075787ab1"
+    },
+    {
+      "start_time": 2010,
+      "end_time": 2018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "William Cepeda, known for his contributions to Afro Jazz, speaks about Southern bomba"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Afro Rican Jazz",
+          "category": "speaker"
+        },
+        {
+          "tag": "William Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "e865fab6-be03-4cf7-a668-10038474ab16"
+    },
+    {
+      "start_time": 2020,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "text": "\"Bombera Eh\" Loíza  ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Chorus  ",
+          "bold": true
+        },
+        {
+          "text": "\nBomba (player), eh  \nBomba (player), eh  \nBomba (player), eh  \nPlay the bomba for me, \nBomba (player), eh  \n"
+        },
+        {
+          "text": "Verses  ",
+          "bold": true
+        },
+        {
+          "text": "\nPlay it here  \nPlay it there  \nBecause I will sing to you  \nAfrican bomba  \nPlay the bomba for me, bomba (player), eh\nLoíza has a bomba, bomba player, eh  \nLoíza has bomba  \nAnd I will dance it"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "21d20963-c26f-442c-9e37-119e4abd8796"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petra Cepeda discusses pedir piquete. \"Estoy buscando un arbol\" is heard again in the background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Petra Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        }
+      ],
+      "uuid": "7c25bb07-0401-4425-a659-4ac9e546ab1f"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Familia Oppenheimer"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "339f5f2e-ce6a-4b5d-8f24-38c35429ec8a"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps again. The sensation of taste, the touch of the fabric, and the sweat mingle together. Heartbeats quicken, a feverish temperature that healed him. Don't be silent, for if I am silent, I am not free. Calling and responding, resistance and audacity, even with the chains 24 hours a day. My voice travels actively, knowing that perhaps I will never see the light of day again. Drum, give me the essence of the sound of your soul. Drum, watch over my sleep with your sweet melody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        }
+      ],
+      "uuid": "d0c1e9c4-b14d-423d-8d16-b6a3d0730189"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "text": "\"Estoy buscando un arbol\"",
+          "bold": true
+        },
+        {
+          "text": " returns."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        }
+      ],
+      "uuid": "2ba76cad-5f23-4444-8e51-d3f02d0a8771"
+    },
+    {
+      "start_time": 2289,
+      "end_time": 2396,
+      "annotation": [
+        {
+          "text": "\"When Diego Danced\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When Diego danced, when Diego"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When Diego danced, even the earth trembled"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Oh, when Diego danced, when Diego danced"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When Diego danced, even the sky clouded over"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Even the earth trembled"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Even the earth trembled"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When Diego danced, even the rain came"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Even the earth trembled"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Even the earth trembled"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When Diego danced, then the rain came"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuando Diego bailo",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "cb20636e-9dc3-4702-9643-0ab3d40defd5"
+    },
+    {
+      "start_time": 2400,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "text": "“Adiós que me voy”",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Goodbye, for I’m leaving\nI’m heading back to my home"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "children"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Goodbye, for I’m leaving\nAy, for I’m already on my way\nI’m going to Loíza Aldea\nI’m leaving through Guayama\nAy, for I’m already on my way\nGoodbye, my child of the soul\nGoodbye, my beloved son\nGoodbye, my dear friend\nAy, goodbye, for I’m already leaving"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Adiós que me voy",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "7c8f6337-b4b7-4495-b196-b1f33672ec1d"
+    },
+    {
+      "start_time": 2418,
+      "end_time": 2574,
+      "annotation": [
+        {
+          "text": "\"Stick and flag\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Stick and flag, cot frame, not with me"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "You have a long face like the mule at the clothesline"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And you have skinny legs like a beach bum"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Stick and flag, cot frame, not with me, you have a long face like the mule at the clothesline, you have skinny legs like a beach bum"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And learn to have respect, learn to respect me, don't be a troublemaker like a beach bum"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Nellie LeBrón y Paracumbé"
+        },
+        {
+          "tag": "Palo e bandera",
+          "category": "song title"
+        }
+      ],
+      "uuid": "8d0685bf-9803-4586-a798-f6dfce513f7e"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 2623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. Friday night, waning moon, stop 22 of the market square, it's sweet, and Elena and her friend are strutting around, living in the moment, unaware of what awaits them, chatting, the BBC playing, a beer can on the ground. Neighbors from the area are leaving, they've already closed their windows. Elena and her chronicle of a death foretold. Elena, beautiful Elena, what do you think, Elena? This hiccup with the plena music. You live your life your way, my way, and that's why, baby, they broke up without problems. Elenas die every day from abuse, even with Law 54 in effect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "36257be5-eb20-4c65-afd5-e6a9a74f5596"
+    },
+    {
+      "start_time": 2632,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "text": "\"They Cut Elena\" performed by Street Theater",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They cut Elena, they cut Elena"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They cut Elena and took her to the hospital"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Elena was very beautiful, she was the queen of the slum. And that wicked suitor who came to scar her face."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Her mother cried, and why wouldn't she cry,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "if they cut Elena and took her to the hospital"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When the news came that she was in the hospital,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "the town, full of rage,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "wanted to kill that man"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Her father also cried,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "and how could he not cry,"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "if it was Elena, his daughter, who was in the hospital"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Oh my!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That was truly sad"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "It made you want to cry"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Chorus"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When they cut Elena and took her to the hospital"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Oh God!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They cut Elena, they cut Elena"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "They cut Elena and took her to the hospital"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cortaron Elena",
+          "category": "song title"
+        },
+        {
+          "tag": "Cortaron a Elena",
+          "category": "song title"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "84287b72-6c84-404a-984a-add668515077"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 2850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manuel Jimenez, \"El Canario\".\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Jimenez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "4d34c170-ad21-4d50-9618-3caf3578465d"
+    },
+    {
+      "start_time": 3053,
+      "end_time": 3060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Seshuque y Balance\" Grupo Afro Boricua (1998) ",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Sesahuque y Balance",
+          "category": "song title"
+        },
+        {
+          "tag": "Grupo Afro Boricua",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "0a64f0ef-4845-49d5-b64d-29720bad6e54"
+    },
+    {
+      "start_time": 3110,
+      "end_time": 3119,
+      "annotation": [
+        {
+          "text": "\"Rulé Sonda\"\nChorus",
+          "bold": true
+        },
+        {
+          "text": "\nRulé, rulé, rulé Sondá\nPlay for me this bomba\nRulé Sondá"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grupo Afro Boricua",
+          "category": "speaker"
+        },
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c1429580-4f30-484c-834f-7cc5c2370d91"
+    },
+    {
+      "start_time": 3120,
+      "end_time": 3150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of Loiza's bailes de bomba and of \"La SanSe\" or the San Sebastian Street Festivals held annually from the third Thursday of January to the third Sunday of January to commemorate the patron saint San Sebastian. They also discuss vejigantes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6999f9a-da46-4b9a-98a9-03411f361a0d"
+    },
+    {
+      "start_time": 3155,
+      "end_time": 3188,
+      "annotation": [
+        {
+          "text": "Welmo raps the following:"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His drum sounds so that my whole house can hear it"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "His drum sounds, thus my soul and my heart rejoice"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Alert, my people!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A runaway slave escapes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Down the mountain"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Night and day"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Escaping the hot iron that marked his life"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "He follows the sound of drums that his goddesses lead him with, guiding him while a prayer rises to the sky"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The meeting that precedes the great escape is heard in songs, and at dawn our story arrives, feeding a memory that fights against the oblivion of its passage."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "bf4437c5-5900-445b-a977-8b0c7c32978e"
+    },
+    {
+      "start_time": 3305,
+      "end_time": 3480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yubá, la Marilé\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Yuba la Marile",
+          "category": "song title"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "90083228-a7ef-41e5-a028-9557193fa9e2"
+    },
+    {
+      "start_time": 3433,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "text": "Vejigante eats coconut",
+          "bold": true
+        },
+        {
+          "text": "\nTo enjoy the San Juan festivals\nTo enjoy the San Juan festivals\nToco toco toco toco\nVejigante eats coconut\nVejigante bobobó\nHe comes eating mango\nBobo bobó, he already ate it\nPepapepapepapepa\nDon't swallow the quenepa\nVejigante ate mango\nHe even licked his nails\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vejigante come coco",
+          "category": "song title"
+        },
+        {
+          "tag": "Loiza",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "3422b897-518b-4cbb-9e34-79f22ab83511"
+    },
+    {
+      "start_time": 4380,
+      "end_time": 4430,
+      "annotation": [
+        {
+          "text": "“Bambulé” (Santurce)\nChorus",
+          "bold": true
+        },
+        {
+          "text": "\nLet's all dance bambulé\nLet's all dance bomba bambulé\n"
+        },
+        {
+          "text": "Verses",
+          "bold": true
+        },
+        {
+          "text": "\nThat's how I used to play, folks\nLet's all dance to bambulé"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bambulé",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "f46780ef-3de7-4bfd-b274-5978d8201ac5"
+    },
+    {
+      "start_time": 5340,
+      "end_time": 5580,
+      "annotation": [
+        {
+          "text": "\"What We Are\" Cultura Profetica",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rhythm of resistance"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That it resonates through all time"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Always with firmness"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "In the rhythm lies the certainty"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That the root grows, grows deep and never ceases"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Feel... the cadence of clarity"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That the music gathers and paints"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Documenting reality"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen to how it is, feel how it goes, and we keep growing"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Oé oé we are the fruit of our yesterday"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A little from here, a little from there"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our yesterday)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "With a little salt and pepper from now"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our yesterday)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A generation that doesn't delay in growing"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our yesterday)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Fruit of the tradition of singing our history"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our yesterday)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Documenting memory, we are the fruit of our yesterday"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "So as not to easily forget and to propose the present"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our yesterday)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "On your marks, get set, go!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "It's forbidden to think of defeat when the race begins"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I wake up in the morning with ideas in my mind"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Listen, people"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The day of my luck has arrived"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Because I come determined to be alive and I don't hold back"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I write about the negative, I write what I always live"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Like roots that understand each other without measuring their reach"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That's what we are, we look towards the horizon"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Looking forward, not back, not even to gain momentum"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "My heart beats, establishing my pulse"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A sign of life and presence"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I always strive for excellence"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And I keep abuse and ignorance at a distance. Tell me if it's false or true? Tell me if there's a consensus"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That we are more than the 10.8 that came out in the census"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ee aa And that we are, we are an oasis in the desert"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that I am, I am black and I represent with pride"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that we are, we are a beautiful people who walk"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that I am a subject who gives thanks for life"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that we are 135 in the Caribbean"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that I am a master of ceremonies, I participate in my history"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I nourish my memory, there is no room for forgetting"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "There is much to travel"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I ask you, are you with me?"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that we are, we are an oasis in the desert"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We are the fruit of our yesterday"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And that I am, I am Caribbean and I proudly represent"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We are the fruit of our past"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And I am a person who gives thanks for life"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(We are the fruit of our past)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "And we are a beautiful people who walk"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(And we are the fruit of our past)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We are the fruit of our past "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The fruit of our past"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We are the fruit of our past"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Fruit of the tree that remains standing"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "We are the fruit of our past"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "That's what we are"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reggae",
+          "category": "genre"
+        },
+        {
+          "tag": "Cultura Profétic",
+          "category": "speaker"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "455a7eca-6a11-428c-b3d8-99be3d388bbf"
+    },
+    {
+      "start_time": 5600,
+      "end_time": 5667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barriles and possible a horn or cuica play. Images of hip hop or breakdance occur within the batey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "hip hop",
+          "category": "genre"
+        }
+      ],
+      "uuid": "156394d8-48a1-4d98-ae48-268b198fedce"
+    },
+    {
+      "start_time": 5682,
+      "end_time": 5737,
+      "annotation": [
+        {
+          "text": "In this segment, an electric guitar melody can be heard, and it transitions into the following partial song. The song \"Soy Libre\" is political in nature, commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons between freedom and ecology and culture. It is a powerful ending to the film."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "“I Am Free”",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am free, I am free"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free like the river that flows into the sea"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free are the words that leap from my mouth"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Freely I decide and achieve what I want, and although my body may be bound"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "It is my mind that I elevate"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free is the air I breathe from the moment I am born"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Until my last breath"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free like the soil of an island that expands"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free is my people, and they do not surrender in the face of bullets"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free, and I am free"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Free, and I am free"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "Welmo E Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Identity",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "a04cc6a1-ba73-4f93-ad42-9121419f2fab"
+    },
+    {
+      "start_time": 5700,
+      "end_time": 5954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final credits\nProductor ejecutivo Banco Popular de Puerto Rico\nDirectora y libretista Palomas Suau\nDirector y productor musical Ángel “Cucco” Peña\nProductoras asociadas Laura E. Vega Reacción Santos Rivera Montero Paradiso Films\nIlustraciones y Animación Carlos Aponte\nDiseño de carátulas Carlos Aponte Art Department Banco Popular\nArtistas Participantes\nAlba Rosario Cepeda\nAndy Montañez\nÁngel Cucco Peña\nÁngel Luis Torruellas\nBallet Folklorico de Los Hermanos Ayala\nChoco Orta\nCocolai y su grupo\nCultura Profética\nDanny Rivera\nFe Cortijo\nFelix Alduen y sus Tambores\nGiovanni Hidalgo\nIsmael Rivera\nJosé Emmanuelli y Bombazo de Puerto Rico\nJosé Feliciano\nJulio Axel Ladron\nLa India\nLito Peña y Lorca\nLos Instantáneos\nLos Pleneros de la 21\nLucecita Benítez\nLuis Daniel Cepeda\nMarc Anthony\nMarcial Reyes\nMargarita Sánchez Cepeda\nMichael Stuart\nNelie Lebron y Paracumbe \nOlga Tanon\nPetra Cepeda\nPlena Libre\nRoberto Cepeda\nRuth Fernández\nWelmo E. Romero Joseph\nAfro Rican Jazz"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "f7b58fef-3e76-4893-a177-6ede4642d031"
+    }
+  ],
+  "set": "Default",
+  "event_id": "1dbefbeb-f271-4e4c-9ff0-d5eb99a87c91",
+  "source_id": "d7d7a335-afcb-427d-9f7a-ad2943faace0"
+}
