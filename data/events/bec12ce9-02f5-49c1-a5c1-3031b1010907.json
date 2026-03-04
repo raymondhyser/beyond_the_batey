@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e53e327e-81de-4bd4-afeb-72fa7a95ce51": {
+      "label": "Cultura Puya",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/oF6vOOANfFI",
+      "duration": 272
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "\"Cultura\" Puya",
+  "created_at": "2026-03-04T05:31:15.979Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T05:31:15.979Z",
+  "updated_by": "raymondhyser"
+}

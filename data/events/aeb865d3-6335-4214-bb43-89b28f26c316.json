@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "8743d520-998f-41c7-b331-99b31bd4d602": {
+      "label": "Encuentro de Cantaoras",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/DdoWHTWy-DQ?si=QofcmCqYmpqJcE4F",
+      "duration": 4811
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Festivals: 2025 Encuentro de Cantaoras",
+  "created_at": "2026-03-04T05:31:15.979Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T05:31:15.979Z",
+  "updated_by": "raymondhyser"
+}

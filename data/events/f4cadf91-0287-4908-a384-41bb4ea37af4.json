@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "18e90dcf-25c3-4af8-ba16-40a738d669f1": {
+      "label": "Cancion Sin Miedo Barrileras de",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/XpIHH_jShcI?si=TLQsgpwChZI5i8aF",
+      "duration": 360
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "\"Cancion Sin Miedo\" Barrileras de 8m",
+  "created_at": "2026-03-04T05:31:15.979Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T05:31:15.979Z",
+  "updated_by": "raymondhyser"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2b494d2e-9bba-425d-b13b-c5e874242069": {
+      "label": "Encuentro de Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/mW_s_EKzxSc?si=a4m-dKAitHkUFKkK",
+      "duration": 2517
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Festivals: 2022 Encuentro de Tambores ICP",
+  "created_at": "2026-03-04T05:31:15.979Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T05:31:15.979Z",
+  "updated_by": "raymondhyser"
+}
