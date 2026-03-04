@@ -392,22 +392,6 @@
       "uuid": "e9fcccf3-162e-4ae6-9493-59dfdb4d30f4"
     },
     {
-      "start_time": 2471,
-      "end_time": 3033,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Open Batey"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b13a34e7-72ee-4868-8f62-042f376d3c31"
-    },
-    {
       "start_time": 2472,
       "end_time": 2580,
       "annotation": [
