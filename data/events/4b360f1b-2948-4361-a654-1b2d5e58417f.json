@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "47c0fe40-1473-4ee3-bbae-425c66c8590c": {
+      "label": "Huracan Esoterica Tropical",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/4Iiyicb0n6w?si=heP6ELVwz4ZeMVzu",
+      "duration": 259
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "\"Huracan\" Esotérica Tropical",
+  "created_at": "2026-03-04T00:30:04.574Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T00:30:04.574Z",
+  "updated_by": "raymondhyser"
+}

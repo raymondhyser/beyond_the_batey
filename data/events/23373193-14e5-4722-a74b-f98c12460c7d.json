@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c01b15aa-b763-4b14-a730-0e81fff76360": {
+      "label": "Carita Linda Rauw Alejandro",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/OajhPIFvusk?si=GLWh-Dyuf5I7dIxW",
+      "duration": 235
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "\"Carita Linda\" Rauw Alejandro",
+  "created_at": "2026-03-04T00:30:04.574Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T00:30:04.574Z",
+  "updated_by": "raymondhyser"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c1b93306-6672-449a-aa6b-36c629eacf10": {
+      "label": "Raices",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=7wCnrrN9Gak",
+      "duration": 5954
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Films: Raices 2001",
+  "created_at": "2026-03-04T00:30:04.574Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T00:30:04.574Z",
+  "updated_by": "raymondhyser"
+}

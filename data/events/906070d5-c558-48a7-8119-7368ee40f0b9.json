@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0da19365-3ecc-4b85-a930-5e60328e8b26": {
+      "label": "Magia de los Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/live/LvBxHqv_np4?si=m6MeYJvnhSPXIjXj",
+      "duration": 3460
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Festivals: 2024 Magia de los Tambores",
+  "created_at": "2026-03-04T00:30:04.574Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T00:30:04.574Z",
+  "updated_by": "raymondhyser"
+}

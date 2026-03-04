@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c1c19fd7-a7ad-4965-a473-c7e938f8284b": {
+      "label": "Encuentro de Tambores",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/live/f355p8sBuYw?si=WajHURvDGxJvS35j",
+      "duration": 10739
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Festivals: 2022 Encuentro de Tambores",
+  "created_at": "2026-03-04T00:30:04.574Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-04T00:30:04.574Z",
+  "updated_by": "raymondhyser"
+}
