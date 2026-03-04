@@ -236,6 +236,243 @@
         }
       ],
       "uuid": "b763aa10-d35a-4865-9e7c-6ea0a2a7dd2e"
+    },
+    {
+      "start_time": 472,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This recording of a live performance of Zafra performed at the Centro de Bellas Artes tells the story of Puerto Rico's tri-ethnic heritage, and its history of slavery. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "2237d6ce-a8f5-4079-9cf4-6207d985fbc9"
+    },
+    {
+      "start_time": 830,
+      "end_time": 4704,
+      "annotation": [
+        {
+          "text": "\"Colonia\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia colonia lleva la caña (ingenio)  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Colonia colonia lleva la caña (ingenio)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "No dejes morir de hambre"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " A los pobres (unintelligible)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Les recibien sus salarios"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda estan (unintelligible)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si la caña no tenemos "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Un pega gana su astento "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Te lo suplico (colelo) "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Los bollero "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si el Domingo lleva caña "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Para (unintelligible) ingenio "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Todos de los pobres sin remedio"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Colonia",
+          "category": "song title"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "7f3db9f1-cde9-4762-9ee5-19961296eb21"
     }
   ],
   "set": "Default",
