@@ -1,5 +1,667 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Somos Semilla\" Chorus\nWe are seeds, we are the fruit of bomba  \nWe are the flowers  \nWe are new growth  \nWe are the bud, and our inheritance is the drums  \nVerses\nFrom a beautiful tree that gave us shade  \nWe inherited these traditions  \nAnd day by day we learn bomba \nThe drums, the dance, and the songs  \n\nWe are the legacy of our ancestors  \nWho left their mark in our hearts  \nWe are the echo of the barrels  \n\nWe carry Puerto Rican blood  \nFrom cimarronas and cimarrones  \nWe always carry our culture  \nWe defend it with a thousand honors  \n\nWe are the present, we are the future  \nSeedbeds of generations  \nDaughters and sons of our bomba  \nAnd we share our gifts well  \n\nWe will keep playing bomba throughout the world and all its corners  \nWith the barrels, with maracas  \nWith joy and with a thousand loves  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Somos semillas",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "b0f50b41-8472-43a2-860e-1e1570eeaade"
+    },
+    {
+      "start_time": 215,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuando baila la negrita\" \nChorus When the little Black girl dances  \nThunder, lightning, drum  \nWhen the little Black girl dances  \nRain, rhythm—  \nShe got wet  \n\nWhen the little Black girl dances, the drum keeps time  \nWhen the little Black girl dances—rain, sky, drum  \nChorus  \nThe little Black girl dances bomba, yuba inspired her  \nEvery strike of the drum lit up the heart  \n\nWhen the little Black girl dances, the stars shine in chic  \nShe danced bomba in Don Pedro’s little house, and it rang out  \n\nWhen the little Black girl dances—drum, rain, in the wind  \nShe got wet; the drums tell stories  \nOf courage and valor—Puerto Rico, I love you  \nAnd I sing to you from the heart  \n\nWhen the little Black girl dances—thunder, gold, drum  \nWhen the little Black girl dances, she rises to the wind, she got wet  \n\nWhen the little Black girl dances, the lightning dances  \nWhen the little joyful girl dances, in the wind she got wet  \nThe little Black girl dances bomba, inspired by love  \nIt ignited in the heart  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Cuando baila la negrita",
+          "category": "song title"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c59f48b6-f475-4afe-a8fc-7de65026212f"
+    },
+    {
+      "start_time": 520,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Soy los elementos\" am earth I am airI am waterI am fireWhen I enter the batey I free myself\nI am earthI am airI am waterI am fireWhen I enter the batey I free myself\n\nI am riverI am mountainI am sky I am desire When I enter the batey with my ancestors\n\nI am water I am drops I am rain I am ice When I enter the batey I flow with my ancestors\n\nI am earth I am sand I am stoneI am soil When I enter the batey I connect with my ancestors\n\nI am fireI am flameI am fire I am light When I enter the batey light of my ancestors\n\nI am airI am wind I am breezeI am sky When I enter the batey I go with my ancestors\n\nI am earthI am air I am water I am fire When I enter the batey I free myself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Soy los elementos",
+          "category": "song title"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        },
+        {
+          "tag": "nature",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "759caa67-fc41-45a5-a076-b61cc0c978be"
+    },
+    {
+      "start_time": 660,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mom, I'm going to the bomba\"\nChorus Mom, mom, I'm going to the bomba Give me your blessing Mom, mom, I'm going to the bomba  I am a cimarrón)\n when the drums sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mama me voy pa' la bomba"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "cimarrón",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "321c8c13-8e3b-45a4-98e9-26a7de757d32"
+    },
+    {
+      "start_time": 900,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Campo yo vivo triste\" performed by Melody\nChorus\nI live sad in the countryside\nEvery day suffering more\nOh God, what will become of me\nIf I don't dance this bomba\nI am going to die\nVerses\nAnd it is the kindness that I consent, I want to sing to you the bomba of my Borinquen\nThat here I come to sing to you\nI only ask that the drum beats and that the cua sounds too so that our ancestors up there in heaven can sing it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Campo",
+          "category": "song title"
+        },
+        {
+          "tag": "Campo yo vivo triste",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "b69c7e52-7555-4cf5-9201-bc62c7f9a7d5"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Familia de Alduén\"  Maria Alduén\nChorus My family is present in the history of bomba. Everyone knows the Alduén family\nVerse From Chicago to Mayagüez, my family is present in the history of bomba Everyone knows the Alduén family.\nThe drums sound, the elders also know, in history the family stands strong The west has the Alduén family. They dedicate themselves to the rhythm that will never be lost.\nIt was the voice of my great-uncle from heaven singing with my mother in flight. He from the clouds is there when I sing,  a rain of bomba that fills us with enchantment. \n Today a voice tells me, little black girl, you will sing!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Familia de Alduén",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Maria Alduén"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "77c42249-9cfa-4b6b-9639-f8e90abfc93b"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Dominé,” Aliz María Castillo\nDominé, dominé\nThat Black woman, dominé, who works the snake\nthe way Rafael sings\nVerses  \nThe way Rafael sings\nThis Black woman dances bomba\nThis Black woman, dominé, dominé\nThis Black woman works the snake like Rafael\nShe works the snake the way Rafael sings\nThis Black woman dances bomba\nand stings the ground with her feet\nDominé, dominé, that Black woman, dominé\nShe works the snake the way Rafael sings\nShe works the snake the way Rafael sings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Esta es la dominé",
+          "category": "song title"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e266180f-4588-4b25-93dd-26242bd73919"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick mention of Neli (a bombera) who is recently diseased."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c4307d78-fdde-4eff-966c-2a4ac4697ac4"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Radiante Flor\" Chorus  \nMy songs are the flowers\nMy memory is their fragrance\nVerses  \nFragrant flower, life is fragile\nBut the spirit does not fade\nIt grows and rejoices in the legacy I see\nChorus  \nMy songs are the flowers\nMy memory is their fragrance\nMy songs are the flowers\nMy memory is their fragrance\nVerse \nSo that you remember me\nI leave you melodies in abundance\nWith the color of my voice\nThe bougainvillea will dress itself\nChorus\nMy verses are the colors\nThey are of dawn, making this day better\nCome with me, let me be with you, be with you\nLook—petals of many colors\nA bee is stinging me\nAnd I’ve got the stinger\nI took it out—let’s keep going here with the bomba\nYour petals are of many colors\nChorus  \nMy voice extends\nAnd it always accompanies you\nMy songs are the flowers\nMy memory in their fragrance\n\nRemember me in your prayers\nFrom the earth and the ancestors\nMay everyone dance\nCome with me, let me be with you, be with you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Radiante flor",
+          "category": "song title"
+        },
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "nature",
+          "category": "analysis"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c083422c-2523-4070-afab-9bba9d6467c4"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo soy del Oeste\" Verse \nOver the Caribbean Sea, emblem of enchantment,\nmy heart beats like a drum at sunset.\nWith the setting sun from the cardinal points,\nin the West I was born.\n\nMy ancestry comes to me, my lineage of warriors,\nmy essence and my honor.\nFrom the cardinal points,\nin the West I was born.\nI am from the West like the strength of the sun.\n\nChorus  \nOver the Caribbean Sea my heart beats.\nI am from the West like the gate of the sun.\nOver the Caribbean Sea my heart beats.\n\nVerse  \nI sing to my joyful plains,\nmy perfumed little cave, the home of my ancestress,\nthe one who gave me life.\n\nI am from the West like the gate of the sun.\nOver the Caribbean Sea my heart beats.\n\nWith the sway of the waves of its beach and its sea,\nwith its palms and mangroves, I will never stop loving.\nI am from the West like the strength of the sun.\nI am the Caribbean Sea, my heart in bloom.\n\nHonoring the gift of that heritage—\nof drumbeats and barrels, maracas and cua, hearing the rhythm.\n\nIn the West, like the setting sun,\nover the Caribbean Sea my heart beats.\n\nTo the City of the Hills I dedicate a special verse,\nfounding city, that town my great brother.\n\nI am from the West like the strength of the sun.\nI conjure the murmur of the river, my native homeland,\nits poppy petal and the fierce waves of the sea.\n\nI am from the West like the gate of the sun.\nOver the Caribbean Sea my heart beats.\n\nThe clearest and deepest blue I have ever seen\nis found in the West of my ancestral Caribbean.\n\nI am from the West like the strength of the sun.\nOver the Caribbean Sea my heart beats.\n\nNow in this other West, there in my spoken city,\nmy beloved San Francisco and the Mission, my community.\n\nI am like the strength of the sun.\nOver the Caribbean Sea my heart beats.\n\nI am from your rugged coast, from your unmatched mountains,\nfrom your celestial work of art.\n\nI am from the West like the strength of the sun.\nOver the Caribbean Sea my heart beats.\n\nYou have always given me the kisses of sun and sea,\nthe guava pulp and the flower of the camboy.\n\nI am from the West like the setting sun.\nOver the Caribbean Sea my heart beats.\nI am from the West like the setting sun.\nOver the Caribbean Sea my heart beats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Yo soy del Oeste",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "place"
+        }
+      ],
+      "uuid": "3524ce5b-61f7-4109-bf13-ef6b64551c4e"
+    },
+    {
+      "start_time": 2273,
+      "end_time": 2530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Candela Colorao\" A thunder is heard from far away\nLike the lord of his own manifestation\nAnd with quickened steps\nI go on singing this song\nAnd with quickened steps\nIn the rain I will sing\nI came to the battle — red fire, red fire  \nI did not come to the battle — red fire, red fire\nIf there is no guano in my house\nI burn it\n\nChorus\nRed fire, red fire\nIf in my land there is no guano\nIt is placed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Candela Colorao",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "69c011a6-17ac-429c-9f17-b19847a3a0da"
+    },
+    {
+      "start_time": 2563,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Goza de la bomba\" Ausuba Verse  \nAh, enjoy it — enjoy the bomba, enjoy it.\nIf you don’t know who’s singing to you, it’s Ausuba who’s playing for you.\nEnjoy the bomba, enjoy it.\nEnjoy the bomba, enjoy it.\n\nChorus  \nGo — enjoy the bomba, enjoy it.\nWith Mariela, nothing less — that’s where you enjoy the bomba.\nEnjoy, enjoy the bomba, enjoy it.\nAy, enjoy it — enjoy the bomba, enjoy it.\nEnjoy the bomba, enjoy it.\nAnd with the rhythm from Joel, I’m off.\nYou enjoy the bomba of the sea.\nWith the bomba, you enjoy it.\n\nChorus  \nEnjoy it — enjoy the bomba, enjoy it.\nAy, enjoy, enjoy, enjoy, enjoy.\nWith Loíza and the singer,\nEnjoy it — enjoy the bomba, enjoy it.\n\nVerses  \nNever prettier than the one who dances on the batey.\nNow, now it’s time — enjoy the bomba, enjoy it.\nIf you don’t know who’s singing to you,\nEnjoy the bomba — if you don’t know who’s singing, it’s Toa.\n\nChorus  \nEnjoy it — enjoy the bomba, enjoy it.\nEnjoy the bomba, enjoy it.\nEnjoy the bomba, enjoy it.\nNow’s the time — enjoy the bomba, enjoy it.\nLet them dance — enjoy the bomba, enjoy it.\nWith Loíza and the singer,\nGo — the bomba, enjoy it.\nAy, enjoy, enjoy, enjoy, enjoy.\nEnjoy the bomba, enjoy it.\nEnjoy the bomba, enjoy it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "1a9c75df-2095-4b7f-b4cc-d32a67478c06"
+    },
+    {
+      "start_time": 2735,
+      "end_time": 2898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I was born a woman\" Ausuba Chorus  \nI was born a woman  \nStrong and a warrior  \nFree and beautiful  \nAnd adventurous  \nVerses\nAlways with my hands in this earth  \nI am the molasses  \nI am the mint  \nI am a Taíno woman  \nI am a Black woman  \nI am a white woman  \nThat is my mixture  \nFruit of that union of beautiful races  \nI am Antillean  \nI am Caribbean  \nAnd in pants I am still a maiden  \nI was born a woman  \nStrong and a warrior  \nFire and earth  \nWind and sea  \nSteady and brave  \nI am calm and peace  \nDaughter of the great revolutionary  \nMother of the men who built a homeland  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "Yo nací mujer",
+          "category": "song title"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "1b8b48c8-0d43-4bf7-98d6-60d8cd55d91b"
+    },
+    {
+      "start_time": 2893,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo no estoy sola\" Ausuba Chorus  \nI am not alone I live my life in colors\nGiving love to all the hearts\nI am not alone I live my life in colors\n\nVerses  \nTo the rhythm of the buleador in time the dancers hear it\nBecause they are about to dance with my life in colors\nGiving love to all the hearts\n\nTo all the hearts giving love to all the hearts\nI live my life in colors giving love to all the hearts\n\nFor everyone who loves me I dedicate this song\nTo everyone who loves me I offer it with love\nSpreading love to all the hearts\n\nAnd to all the hearts to all the hearts who dance\nDancers I gift you this song\nDance it with love to all the hearts\n\nHey dance dance now\nTo all the hearts this song goes\nAll the hearts dance it from the heart\nTo all the hearts from the heart to all the hearts\n\nAnd dance it with love to all the hearts\nSo the dancers can dance it\nTo all the hearts who make the\nWhere is it to all the hearts\n\nDedication  \nFor everyone who loves me to all the hearts\nI dedicate the song to all who love me\nI give my heart to all the hearts\n\nI am not alone I live my life in colors\nGiving love to all the hearts"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "Yo no estoy sola",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "unity"
+        }
+      ],
+      "uuid": "0d3e87b5-3bc8-42d0-b992-741aa728afeb"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Caminando\" Ausuba\nI keep on walking through life\nWalking, marking a steady step\nAnd I keep on walking and I keep on walking\nWalking through life, walking\nMarking a steady step\nAnd I keep on walking and I keep on walking\nThrough life, walking, marking a steady step\nAnd I keep on walking and I keep on walking\nThrough life, walking, marching with a steady step\n\nWalking day by day, many times I found myself\nAnd along that path I faced a thousand things\nAnd I keep on walking with life\nWalking, marking a steady step\nAnd I keep on walking with a steady step\n\nI keep on walking, brushing off\nAnything that tries to take my bread away\nAnd I keep on drumming and I keep on walking\nWith life, walking, marking a steady step\n\nSome people ask me\nHow I keep moving\nI just follow the heart\nSo the wind won’t carry me away\n\nAnd I keep on walking with life\nWalking, marking a steady step\nAnd I keep on walking little by little through life\nI will keep singing the cheles while walking\nWalking to the top — I will get there\n\nAnd I keep on walking through life\nWalking, marking a steady step\n\nSome people ask me why I keep moving\nI just follow the heart so the wind won’t carry me away\n\nAnd I keep on walking through life\nWalking, marking a steady step\nAnd I keep on walking with life\nWalking, marking a steady step\n\nAnd I keep on walking, sweating the big drop\nWhat a sweet warmth from Loíza, from the love\n\nDedication\nSo we’re good — this tasty song\nFrom Chicago to Puerto Rico I dedicate it\nTo all the beautiful people here today\nAnd congratulations to all the cantadoras\nFrom our elders to those who started as babies\n\nThis role of the singer is still important\nBecause that’s where the history is — that’s where we learn so much\n\nThank you, Usua, for the invitation to share with you\n\nI have arrived, I have arrived, I have arrived walking\nI have arrived, I have arrived, I have arrived walking\n\nStep by step I will get there\nLet the seed I planted guide me\n\nI have arrived, I have arrived walking\nFrom Chicago I come singing\nOh I arrived, oh yes I arrived\nI have arrived, I have arrived, I have arrived walking\nI have arrived, I have arrived, I have arrived walking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Caminando",
+          "category": "song title"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "resilience"
+        }
+      ],
+      "uuid": "0ee62df4-789a-4c04-8d53-01f0cebe199f"
+    },
+    {
+      "start_time": 3507,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Por que me dicen morena?\" Ausuba Someone shouted from far away, “Morena, come over here.”\nHow beautiful that hair is, it looks spectacular on you.\nThen I said, “Morena? Thank you, you’re very kind.\nBut I want to correct something, and I hope you take it well.\nIt’s just that I am not morena, nor am I the color of coffee.\nI am proudly Black, and that is what I will always be.\nWhy do you call me morena if that is not my color?\nI have a Black heritage, and I am proud of it.\nVerses  \nFrom my ancestors and from the sound of my drum,\nI am Black by birth, a singer at heart.\nBecause the race lives in me — that’s why Black, Black is what I am.\nWhy do you call me morena if that is not my color?\nI have a Black heritage, and I am proud of it.\nOh, I have a pure lineage — warriors and compassion,\nWho rose up in struggle and defended our color.\nI have a Black heritage, and I am proud of it.\nMy race is my color, and I am proud of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Identity",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Porque me dicen morena",
+          "category": "song title"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "racism",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "anti racism"
+        }
+      ],
+      "uuid": "19fdead2-0b13-4194-ab9f-65a78acbcec0"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Igualida, Libertad, y  Respecto\" Ausuba\nWe always remember that the importance of love is mutual  \nThat freedom is also mutual  \nAnd that there is love for all women, for all men, and for everyone  \nAs long as it is so  \nI didn’t come to be fooled, I have a voice, I have a right  \nI come to fight for what I want  \nEquality, freedom, and respect  \nI didn’t come to be fooled, I have a voice, I have a right  \nI come to fight for what I want  \nEquality, freedom, and respect  \nWe are no longer the submissive ones  \nToday I shout it to the four winds  \nI have a voice, I have a right  \nEquality, freedom, and respect  \nI didn’t come to be fooled, I have a voice, I have a right  \nI come to fight for what I want  \nEquality, freedom, and respect  \nAnd there is no more time for parliament  \nNor for thinking about remorse  \nA movement rises  \nI do not submit to the government  \nI didn’t come to be fooled, I have a voice, I have a right  \nI come to fight for what I want  \nEquality, freedom, and respect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "Igualdad libertad y respeto",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "respect"
+        }
+      ],
+      "uuid": "ed033d60-2cb6-4c00-8d7c-2301b0b3c70e"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 5400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No me vas a pegar\" Ausuba\nSo what happens if you catch me with someone else\nIf I catch you flirting with another\nAll I demand is respectful treatment\nAnd that your love be steady and respectful\nAnd what happens if you catch me with someone else\nIf I see you flirting with another\nYou are not going to hit me\nNor manipulate me nor mistreat me\nNothing happens if you see me flirting with someone else\nYou are not going to do anything to me\nIf I see you flirting with another\nWhat you are is a macho bully\nAnd what happens if you catch me with someone else\nIf I see you flirting with another\nAnd what happens if you catch me with someone else\nIf I see you flirting with another\nDon’t you come to hit me\nDon’t you come to hit me\nDon’t come to mistreat me\nDon’t you come to hit me\nBrother you are not going to manipulate me\nDon’t you come to hit me\nMuch less mistreat me\nDon’t you come to hit me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "No me vas a pegar",
+          "category": "song title"
+        },
+        {
+          "tag": "women",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "resistence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "love"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c2f8b07e-d830-4510-b6dd-fdbd0ca0623b"
+    }
+  ],
   "set": "Default",
   "event_id": "db61ec6b-58f8-48f5-9bb4-a8e6bd5d2a13",
   "source_id": "3905619a-3636-4053-977b-c86f7986ef48"
