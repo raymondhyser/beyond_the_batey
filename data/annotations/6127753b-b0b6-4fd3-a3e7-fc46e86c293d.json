@@ -1,5 +1,1817 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 195,
+      "annotation": [
+        {
+          "text": "\"Somos semillas. Somos el fruto de la bomba\" performed by Milenis",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nSomos semillas somos el fruto de la bomba\nSomos las flores"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Somos retoño\nSomos capullo y nuestra herencia son los tambores "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nDe un bello árbol que nos dio sombra\nHeredamos estas tradiciones\nY día a día aprendemos bomba\nTambores baile y las canciones \n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Somos legado de los ancestros\nQue dejaron en nuestros corazones\nSomos el eco de los barriles\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tenemos sangre puertorriqueña\nDe cimarronas y cimarrones\nLlevamos siempre nuestra cultura\nLa defendemos con mil honores "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nSomos presentes somos futuros\nSemilleros de generaciones\nHijas e hijos de nuestra bomba\nY compartimos bien nuestros dones "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nSeguiremos tocando bomba por todo el mundo y sus rincones\nCon los barriles con maracas\nCon alegría y con mil amores "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Somos semillas",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "ce80c86c-0d4f-4d52-a6ca-709be6b50345"
+    },
+    {
+      "start_time": 215,
+      "end_time": 455,
+      "annotation": [
+        {
+          "text": "\"Cuando baila la negrita\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nCuando baila la negrita\nTrueno rayo tambor\nCuando baila la negrita "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Lluvia ritmo \nSe mojó\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\n\nCuando baila la negrita suena el horario tambor\nCuando baila la negrita lluvia cielo tambor "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nLa negrita baila bomba yuba inspiró\nCada golpe del tambor se encendió en el corazón "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nCuando baila la negrita las estrellas brillan en chic\nBailó en la casita de Don Pedro la bomba y sonó "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nCuando baila la negrita tambor lluvia al viento\nSe mojó los tambores cuentan historia\nDe coraje y valor Puerto Rico yo te quiero\nY te canto de corazón "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nCuando baila la negrita trueno oro tambor\nCuando baila la negrita sube al viento se mojó "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nCuando baila la negrita los rayos danzan\nCuando baila la alegrita al viento se mojó\nLa negrita baila bomba inspiró amor\nSe encendió en el corazón "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Cuando baila la negrita",
+          "category": "song title"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "985a3309-5805-47cd-be71-9d3a1d3d0a10"
+    },
+    {
+      "start_time": 520,
+      "end_time": 660,
+      "annotation": [
+        {
+          "text": "\"Soy los elementos\" ",
+          "bold": true
+        },
+        {
+          "text": "Compuesta por Maríelis "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nSoy tierra\nSoy aire\nSoy agua\nSoy fuego\nCuando entro al batey yo me libero"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy tierra \nsoy aire \nsoy agua \nsoy fuego\nCuando entro al batey yo me libero"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy río \nSoy montaña \nSoy cielo \nSoy deseo\nCuando entro al batey con mis ancestros"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy agua \nSoy gotas \nSoy lluvia \nSoy hielo\nCuando entro al batey fluyo con mis ancestros"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nSoy tierra "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy arena \nSoy piedra \nSoy suelo\nCuando entro al batey conecto con mis ancestros\n\nSoy fuego \nSoy llama \nSoy hoguera \nSoy candela\nCuando entro al batey luz de mis ancestros\n\nSoy aire \nSoy viento \nSoy brisa \nSoy cielo\nCuando entro al batey voy con mis ancestros"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nSoy tierra \nSoy aire \nSoy agua \nSoy fuego\nCuando entro al batey yo me libero"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Soy los elementos",
+          "category": "song title"
+        },
+        {
+          "tag": "ecological",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "c9e0af89-9071-4747-9d17-9c49836bea26"
+    },
+    {
+      "start_time": 660,
+      "end_time": 920,
+      "annotation": [
+        {
+          "text": "Mamá me voy pa' la bomba\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mamá, mamá, me voy pa' la bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Echéme tu bendición \nMamá, mamá, me voy pa' la bomba"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "cimarrón "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando suenan los tambores "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mama me voy pa' la bomba"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "637b1410-c157-4d47-8b91-811b91c2839d"
+    },
+    {
+      "start_time": 900,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "text": "\"Campo yo vivo triste\" performed by Melody",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Campo yo vivo triste "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cada dia sufirendo más "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay Dios que será de mí "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si no bailo esta bomba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Me voy a morir "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y es la bondad que consentimiento yo te quiero a ti cantar la bomba de mi borinquen "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "que aquí aisa te vengo a cantar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Solo te pido que repique y que suene también el cua para que nuestras ancestras allá desde el cielo la puedan cantar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Campo",
+          "category": "song title"
+        },
+        {
+          "tag": "Campo yo vivo triste",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "f3481938-8e7f-49ad-8957-dd0e504d436a"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "text": "\"Familia de Alduén\" performed by Maria Alduén",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi familia está presente en la historia de la bomba. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Todos conocen a la familia Alduen "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Desde Chicago a Mayagüez"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mi familia está presente en la historia de la bomba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Todos conocen a la familia Alduen"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suenan los tambores los mayores saben  también en la historia la familia está en pie"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "El oeste tiene la familia Alduen  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Se dedica al ritmo que nunca va a perder"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Era la voz de mi tío abuelo  desde el cielo con mi mamá cantando en vuelo.   Rando desde la nube cuando yo canto   una lluvia de bomba que nos llena de encanto"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Echa candela y pide gople "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hoy una voz qe me dice negrita va a cantar"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Familia de Alduén",
+          "category": "song title"
+        }
+      ],
+      "uuid": "29a0c8ba-4a2a-42f2-9202-f5f5aecb9643"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1592,
+      "annotation": [
+        {
+          "text": "\"Dominé\" Aliz Maria Castillo",
+          "bold": true
+        },
+        {
+          "text": "\nDominé dominé\nEsa negra dominé que trabaja la culebra como canto Rafael"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "text": "\nComo canto Rafael "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Esta negra baila bomba\nEsta negra dominé dominé\nEsta negra trabaja la culebra como Rafael\nQue trabaja la culebra como canto Rafael \nEsta negra baila la bomba y se pica con los pies\nDominé dominé esa negra dominé\nTrabaja la culebra como canto Rafael"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Que trabaja la culuebra como canto Rafael"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Esta es la dominé",
+          "category": "song title"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "6d0cb33e-e66a-4c54-8d14-16627e2d7fa5"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick mention of Neli (a bombera) who is recently diseased."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53c9ca50-5390-49bd-9275-14cfe3e3c87f"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "text": "\"Radiante Flor\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mis canciones son las flores\nMi recuerdo es su fragancia\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nFragante flor la vida es frágil\nPero el espíritu no se extingue\nSe crece y se alegra en el legado que veo Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nMis canciones son las flores\nMi recuerdo es su fragancia "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "text": " \nPara que te acuerdes de mí\nTe dejo melodías en abundancia\n\nCon el color de mi voz\nSe vestirá la Trinitaria Coro\n\nMis versos son los colores\nSon de amanecer este día mejores\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Acompáñame a estar contigo estar contigo\nMira pétalos de colores\nMe está picando una abeja\nY tengo el aguijón"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nMe lo quité vamos a seguir aquí con la bomba\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tus pétalos son de colores\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nMi voz se extiende\nY a ti siempre te acompaña\nMis canciones son las flores\nMi recuerdo en su fragancia "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nRecuérdame en tus oraciones"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nDe la tierra y los ancestros\nQue todo el mundo baila\n\nAcompáñame a estar contigo a estar contigo\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Radiante flor",
+          "category": "song title"
+        },
+        {
+          "tag": "reflexive",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "8fd621c0-2dd2-45bd-a9ff-4f79298f196b"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "text": "\"Yo soy del Oeste\" composed by Llia Correa ",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso 1",
+          "bold": true
+        },
+        {
+          "text": "\nSobre el mar Caribe emblema del encanto\nRepica mi corazón tambor al atardecer\nCon la puesta del sol de los puntos cardinales\nEn el oeste nací yo Viene mi ancestral mi estirpe de guerrera\nMi esencia y mi honor\nDe los puntos cardinales   En el oeste nací yo\nYo soy del Oeste como la fuerza del sol "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nSobre el mar Caribe repica mi corazón\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe repica mi corazón "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso ",
+          "bold": true
+        },
+        {
+          "text": "\nLe canto a mi llano alegre\nMi cuevito perfumado el hogar de mi ancestra\nUna que me dio nacer\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe repica mi corazón\nCon el vaivén de las olas de su playa y su mar \nCon sus palmas y manglares no dejaré de amar\nYo soy del Oeste como la fuerza del sol \nSoy el mar Caribe mi corazón a flor\nHonrando por regalarme esa herencia\nDe repiques y barriles maracas y cua oyendo el son\nEn el oeste como la puesta del sol \nSobre el mar Caribe repica mi corazón \nA la ciudad de las Lomas dedico un verso especial\nCiudad fundadora pueblo ese mi gran hermano "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy del Oeste como la fuerza del sol \nConjuro el rumor del río mi terruño si natal\nSu pétalo de amapola y las olas bravas del mar\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe se repica mi corazón \nEl azul más claro y hondo que yo he podido observar\nSe encuentra en el oeste de mi Caribe ancestral \nYo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón \nAhora en este otro oeste allá en mi ciudad oral\nMi querido San Francisco y la misión mi comunidad\nYo soy como la fuerza del sol\nSobre el mar Caribe repica mi corazón \nYo soy de tu costa recia de tu monte sin igual\nDe tu obra de arte celestial\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón  \nSiempre me ha regalado los besos del sol y el mar\nLa pulpa de guayaba y la flor del camboy\nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón \nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Yo soy del Oeste",
+          "category": "song title"
+        }
+      ],
+      "uuid": "96502c17-1811-43b8-aeec-a023be17be9b"
+    },
+    {
+      "start_time": 2273,
+      "end_time": 2530,
+      "annotation": [
+        {
+          "text": "\"Candela Colorao\" Compuesta por Nurka Hernandez Nadal",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Voz cantando al dios del tambor un trueno se escucha desde lejos como señor de su manifestación"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y entre pasos aligerados voy entonando esta canción y entre pasos aligerados en la lluvia voy a cantar "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo vine a la batalla ¡candela colorao candela colorao! No vine a la batalla ¡candela colora candela colorao!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si en mi casa no hay guano yo lo quemo. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Candela colora candela colorao! "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Si en mi tierra no hay guano "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Se coloca"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Candela Colorao",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "6fbe467a-7fff-4714-95e6-89e693e78cca"
+    },
+    {
+      "start_time": 2563,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "text": "\"Goza de la bomba\"  Ausuba",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "text": "\nAh goza gózate la bomba goza\nSi no sabes quién te canta es Asuba quien te toca\nGózate la bomba goza\nGózate la bomba goza Coro\nGo gózate la bomba goza\nCon Mariela nada menos ahí la bomba tú la gozas\nGoza goza la bomba goza\nAy goza gózate la bomba goza \nGoza gózate la bomba\nY al ritmo con Joel y me voy\nTú la bomba de lo mar\nCon la bomba tú la gozas "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Goza gózate la bomba goza\nAy goza goza goza goza\nCon Loíza y la cantadora\nGoza gózate la bomba goza "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nNunca linda que en el bate baila\nAhora que ahora fue gózate la bomba goza\nSi no sabes quién te canta\nGózate la bomba que si no sabes quién te canta es Toa Coro\nGoza gózate la bomba goza\nGózate la bomba goza\nGózate la bomba goza\nA la hora que ahora fue gózate la bomba goza \nQue baile gózate la bomba goza\nCon Loíza y la cantadora\nGo la bomba goza\nAy goza goza goza goza\nGózate la bomba goza\nGózate la bomba goza "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "c4f1218d-9cdb-43a6-a405-1b2f4067a3e3"
+    },
+    {
+      "start_time": 2735,
+      "end_time": 2898,
+      "annotation": [
+        {
+          "text": "\"Yo nací mujer\". Coomposed by Ausuba",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nYo nací mujer "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Fuerte y guerrera "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Libre y hermosa"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y aventurera\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hay siempre con mis manos en esta tierra\nYo soy la melaza"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy hierba buena\nSoy mujer taína "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy mujer negra\nSoy mujer blanca "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Esa es mi mezcla \nFruto de ese junte de raza bella\nYo soy antillana "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy caribeña\nY con pantalones yo soy doncella"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo naci mujer"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Fuerte y guerrera"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Fuego y tierra "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Viento y mar\nFirme y valiente"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo soy calma y paz \nHija de la grande revolucionaria\nMadre de los hombres que hicieron patria "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "Yo nací mujer",
+          "category": "song title"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "faf858e2-ee31-43ac-9e30-3f1f344b2e15"
+    },
+    {
+      "start_time": 2893,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "text": "\"Yo no estoy sola\"",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola vivo mi vida en colores\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nAl ritmo del buleador con el tiempo lo escuchan los bailadores\nPorque ya van a bailar con mi vida en colores\nRegalándole amores a todos los corazones\nA todos los corazones regalándole amores a todos los corazones \nVivo mi vida en colores regalándole amor a todos los corazones\nPara todos los que me quieren les dedico esta canción\nA todos los que me quieren yo les brindo con amor \nRegando de amores a todos los corazones\nY a todos los corazones a todos los corazones que bailen\nBailadores les regalo esta canción\nQue bailen con amor a todos los corazones \nOye baila baila ahora\nA todos los corazones va esta canción\nTodos los corazones báilala de corazón\nA todos los corazones de corazón a todos los corazones \nY lo baila con amor a todos los corazones\nPara que lo bailen los bailadores\nA todos los corazones que hagan el \nDonde está a todos los corazones "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Dedicatoria",
+          "bold": true
+        },
+        {
+          "text": "\nPara todos los que me quieren a todos los corazones\nYo les dedico la canción todo lo que me quiere\nLes entrego mi corazón a todos los corazones\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones \n\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "453325ad-1dce-4bcf-b325-27edafe48283"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3398,
+      "annotation": [
+        {
+          "text": "\"Caminando\"",
+          "bold": true
+        },
+        {
+          "text": "\nY yo sigo caminando por la vida\nCaminando un paso firme marcando\nY yo sigo caminando y yo sigo caminando\nCaminando por la vida caminando\nUn paso firme marcando\nY yo sigo caminando y yo sigo caminando\nPor la vida caminando un paso firme marcando\nY yo sigo caminando y yo sigo caminando\nPor la vida caminando un paso firme marchando \nCaminando día a día muchas veces me encontré\nY durante ese camino a mil cosas me enfrenté\nY yo sigo caminando con la vida\nCaminando un paso firme marcando\nY yo sigo caminando a paso firme \nYo sigo caminando pichándole todo\nLo que mi pan me esté quitando\nY yo sigo bombeando y yo sigo caminando\nCon la vida caminando un paso firme marcando \nAlguna gente me pregunta\nCómo sigo en movimiento\nSolo sigo al corazón\nPara que no me lleve el viento\nY yo sigo caminando con la vida\nCaminando un paso firme marcando\nY yo sigo caminando poco a poco por la vida\nSeguiré cantando los cheles caminando\nCaminando al tope yo llegaré\nY yo sigo caminando por la vida\nCaminando un paso firme marcando "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Alguna gente me pregunta por qué sigo en movimiento\nSolo sigo al corazón para que no me lleve el viento\nY yo sigo caminando por la vida\nCaminando un paso firme marcando\nY yo sigo caminando con la vida\nCaminando un paso firme marcando\nY yo sigo caminando sudando la gota gorda\nQué rico calorcito de Loíza del cariño "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Dedicatoria",
+          "bold": true
+        },
+        {
+          "text": "\nAsí que estamos buenos esta canción sabrosa\nDesde Chicago Puerto Rico se la dedico\nA toda la gente bella aquí presente\nY felicidades a todas las cantadoras\nDesde nuestras mayores hasta los que empezaron bebés\nTodavía este rol del cantador o la cantadora es importante\nPorque ahí está la historia ahí es que aprendemos un montón\nGracias Usua por la invitación de poder compartir con ustedes\nHe llegado he llegado he llegado caminando\nHe llegado he llegado he llegado caminando\nPasito a pasito yo llegaré\nQue me guíe la semilla que sembré\nHe llegado he llegado caminando\nDesde Chicago yo vengo cantando\nAy yo llegué ay sí llegué Cierre\nHe llegado he llegado he llegado caminando\nHe llegado he llegado he llegado caminando "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Caminando",
+          "category": "song title"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "8e17f3b6-4564-43f2-8004-980f010f3bbd"
+    },
+    {
+      "start_time": 3507,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "text": "\"Porque me dicen morena\"",
+          "bold": true
+        },
+        {
+          "text": "\nAlguien gritó de lejos Morena venga para acá\nQué bello ese cabello te queda espectacular\nEntonces le dije morena Gracias muy amable es usted\nQuiero corregirle algo y espero lo tome bien \nEs que yo no soy morena tampoco color café\nOrgullosamente negra y así yo siempre seré\n¿Por qué me dices morena si ese no es mi color?\nYo tengo una raza negra y de ella orgullosa estoy "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nDe mis ancestros y del sonido de mi tambor\nSoy negra de nacimiento cantadora de corazón\nPorque vive en mí la raza es que negra negra soy yo\n¿Por qué me dices morena si ese no es mi color? \nYo tengo una raza negra y de ella orgullosa estoy\nAy yo tengo una raza pura guerreras y compasión\nQue levantaron pie de lucha y defendieron nuestro color\nYo tengo una raza negra y de ella orgullosa estoy \nMi raza es mi color y de ella orgullosa estoy"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Identity",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Porque me dicen morena",
+          "category": "song title"
+        }
+      ],
+      "uuid": "c4a90a1f-7de8-4f1c-bb06-ef6f5aeeb70e"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3900,
+      "annotation": [
+        {
+          "text": "\"Igualdad libertad y respeto\"",
+          "bold": true
+        },
+        {
+          "text": "\nSiempre recordamos que la importancia del amor es mutua\nQue la libertad también es mutua\nY que también hay amor para todas para todos y para todas\nSiempre y cuando sea así\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nQue ya no somos las sumisas\nHoy grito a los cuatro vientos\nTengo voz tengo derecho\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nY ya no hay tiempo de parlamento\nNi pensar en remordimiento\nSe levanta un movimiento\nAl gobierno no me someto \nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto \n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "Igualdad libertad y respeto",
+          "category": "song title"
+        }
+      ],
+      "uuid": "b533806c-7076-4bc2-8deb-49752a6a4eae"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 5400,
+      "annotation": [
+        {
+          "text": "\"No me vas a pegar\" Ausuba",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "text": "\nAhí ¿y qué pasa si me coges con otro?\nSi te cojo coqueteando de a otro\nYo solo exijo trato respetuoso\nY que tu amor sea firme y respetuoso \n¿Y qué pasa si me coges con otro?\nSi te veo coqueteándole a otro\nTú a mí no me vas a pegar\nNi a manipular ni a maltratar\nNada pasa si me ves coqueteándole a otro\nTú a mí no me vas a hacer nada\nSi te veo coqueteándole a otro\nTú lo que eres un macharrán\n¿Y qué pasa si me coges con otro?\nSi te veo coqueteando a otro\n¿Y qué pasa si me coges con otro?\nSi te veo coqueteando a otro \nTú no me vengas a pegar\nTú no me vengas a pegar\nNo me vengas a maltratar\nTú no me vengas a pegar \nHermano no me vas a manipular\nTú no me vengas a pegar\nNi mucho menos maltratar\nTú no me vengas a pegar \nLas manos son para acariciar\nPara nuestro hogar levantar\nCon nuestras manos trabajar\nTú no me vas a maltratar\nTú no me vas a pegar\nNo me vas a maltratar\nTú no me vengas a pegar\nNo me vengas a pegar "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        },
+        {
+          "tag": "feminism",
+          "category": "analysis"
+        },
+        {
+          "tag": "gender",
+          "category": "analysis"
+        },
+        {
+          "tag": "No me vas a pegar",
+          "category": "song title"
+        }
+      ],
+      "uuid": "dc90f97e-1ded-42d0-89c1-4e9daf931e25"
+    }
+  ],
   "event_id": "db61ec6b-58f8-48f5-9bb4-a8e6bd5d2a13",
   "set": "Spanish",
   "source_id": "3905619a-3636-4053-977b-c86f7986ef48"
